@@ -1,0 +1,502 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>Smart Agriculture Dashboard</title>
+
+    <!-- Google Font -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap"
+          rel="stylesheet">
+
+    <!-- Chart.js -->
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+
+    <style>
+
+        *{
+            margin:0;
+            padding:0;
+            box-sizing:border-box;
+            font-family:'Poppins',sans-serif;
+        }
+
+        body{
+            background:#f4fff4;
+            color:#222;
+        }
+
+        /* =========================
+           NAVBAR
+        ========================= */
+
+        .dashboard-nav{
+
+            background:#1b5e20;
+
+            padding:18px 60px;
+
+            display:flex;
+
+            justify-content:space-between;
+
+            align-items:center;
+
+            color:white;
+
+        }
+
+        .dashboard-logo{
+
+            font-size:25px;
+
+            font-weight:700;
+
+        }
+
+        .home-link{
+
+            color:white;
+
+            text-decoration:none;
+
+            padding:10px 20px;
+
+            border:1px solid rgba(255,255,255,.5);
+
+            border-radius:8px;
+
+            transition:.3s;
+
+        }
+
+        .home-link:hover{
+
+            background:white;
+
+            color:#1b5e20;
+
+        }
+
+
+        /* =========================
+           HEADER
+        ========================= */
+
+        .dashboard-header{
+
+            text-align:center;
+
+            padding:55px 20px 35px;
+
+        }
+
+        .dashboard-header h1{
+
+            color:#1b5e20;
+
+            font-size:42px;
+
+            margin-bottom:10px;
+
+        }
+
+        .dashboard-header p{
+
+            color:#666;
+
+            font-size:17px;
+
+        }
+
+
+        /* =========================
+           STATISTICS
+        ========================= */
+
+        .stats{
+
+            max-width:1200px;
+
+            margin:auto;
+
+            padding:0 20px 40px;
+
+            display:grid;
+
+            grid-template-columns:repeat(3,1fr);
+
+            gap:25px;
+
+        }
+
+        .stat-card{
+
+            background:white;
+
+            padding:25px;
+
+            border-radius:16px;
+
+            text-align:center;
+
+            box-shadow:0 8px 25px rgba(0,0,0,.08);
+
+            border-top:5px solid #2e7d32;
+
+        }
+
+        .stat-icon{
+
+            font-size:35px;
+
+            margin-bottom:10px;
+
+        }
+
+        .stat-card h2{
+
+            color:#1b5e20;
+
+            font-size:30px;
+
+        }
+
+        .stat-card p{
+
+            color:#666;
+
+            margin-top:5px;
+
+        }
+
+
+        /* =========================
+           CHART SECTION
+        ========================= */
+
+        .chart-container{
+
+            max-width:1200px;
+
+            margin:0 auto 50px;
+
+            padding:35px;
+
+            background:white;
+
+            border-radius:20px;
+
+            box-shadow:0 10px 30px rgba(0,0,0,.10);
+
+        }
+
+        .chart-container h2{
+
+            text-align:center;
+
+            color:#1b5e20;
+
+            margin-bottom:30px;
+
+        }
+
+        .chart-box{
+
+            position:relative;
+
+            height:450px;
+
+        }
+
+
+        /* =========================
+           FOOTER
+        ========================= */
+
+        .dashboard-footer{
+
+            text-align:center;
+
+            padding:25px;
+
+            background:#1b5e20;
+
+            color:white;
+
+            margin-top:30px;
+
+        }
+
+
+        /* =========================
+           RESPONSIVE
+        ========================= */
+
+        @media(max-width:800px){
+
+            .dashboard-nav{
+
+                padding:15px 20px;
+
+            }
+
+            .dashboard-logo{
+
+                font-size:19px;
+
+            }
+
+            .dashboard-header h1{
+
+                font-size:30px;
+
+            }
+
+            .stats{
+
+                grid-template-columns:1fr;
+
+            }
+
+            .chart-container{
+
+                margin:0 15px 40px;
+
+                padding:20px;
+
+            }
+
+            .chart-box{
+
+                height:350px;
+
+            }
+
+        }
+
+    </style>
+
+</head>
+
+
+<body>
+
+
+<!-- =========================
+     NAVBAR
+========================= -->
+
+<nav class="dashboard-nav">
+
+    <div class="dashboard-logo">
+
+        🌾 Smart Agriculture
+
+    </div>
+
+    <a href="/" class="home-link">
+
+        🏠 Home
+
+    </a>
+
+</nav>
+
+
+<!-- =========================
+     HEADER
+========================= -->
+
+<section class="dashboard-header">
+
+    <h1>📊 Agriculture Dashboard</h1>
+
+    <p>
+        Crop Recommendation & Dataset Analysis
+    </p>
+
+</section>
+
+
+<!-- =========================
+     STATISTICS
+========================= -->
+
+<section class="stats">
+
+    <div class="stat-card">
+
+        <div class="stat-icon">
+            📊
+        </div>
+
+        <h2>{{ crops|length }}</h2>
+
+        <p>Crop Types</p>
+
+    </div>
+
+
+    <div class="stat-card">
+
+        <div class="stat-icon">
+            🌾
+        </div>
+
+        <h2>{{ counts|sum }}</h2>
+
+        <p>Total Dataset Records</p>
+
+    </div>
+
+
+    <div class="stat-card">
+
+        <div class="stat-icon">
+            🤖
+        </div>
+
+        <h2>ML</h2>
+
+        <p>Crop Recommendation Model</p>
+
+    </div>
+
+</section>
+
+
+<!-- =========================
+     BAR CHART
+========================= -->
+
+<section class="chart-container">
+
+    <h2>🌾 Crop Distribution</h2>
+
+    <div class="chart-box">
+
+        <canvas id="cropChart"></canvas>
+
+    </div>
+
+</section>
+
+
+<!-- =========================
+     FOOTER
+========================= -->
+
+<footer class="dashboard-footer">
+
+    <p>
+        © 2026 Smart Agriculture Crop Recommendation System
+    </p>
+
+</footer>
+
+
+<!-- =========================
+     CHART SCRIPT
+========================= -->
+
+<script>
+
+    const crops = {{ crops | tojson }};
+
+    const counts = {{ counts | tojson }};
+
+
+    const ctx = document
+        .getElementById('cropChart')
+        .getContext('2d');
+
+
+    new Chart(ctx, {
+
+        type: 'bar',
+
+        data: {
+
+            labels: crops,
+
+            datasets: [
+
+                {
+
+                    label: 'Number of Records',
+
+                    data: counts,
+
+                    borderWidth: 1,
+
+                    borderRadius: 6
+
+                }
+
+            ]
+
+        },
+
+        options: {
+
+            responsive:true,
+
+            maintainAspectRatio:false,
+
+            plugins: {
+
+                legend: {
+
+                    display:true
+
+                }
+
+            },
+
+            scales: {
+
+                y: {
+
+                    beginAtZero:true,
+
+                    title: {
+
+                        display:true,
+
+                        text:'Number of Records'
+
+                    }
+
+                },
+
+                x: {
+
+                    title: {
+
+                        display:true,
+
+                        text:'Crop Types'
+
+                    }
+
+                }
+
+            }
+
+        }
+
+    });
+
+</script>
+
+
+</body>
+
+</html>

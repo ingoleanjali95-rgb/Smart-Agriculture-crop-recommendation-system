@@ -1,0 +1,163 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+
+    <meta charset="UTF-8">
+
+    <meta name="viewport"
+          content="width=device-width, initial-scale=1.0">
+
+    <title>{{ crop }} - Crop Details</title>
+
+    <link rel="stylesheet"
+          href="{{ url_for('static', filename='style.css') }}">
+
+</head>
+
+
+<body>
+
+
+<div class="details-page">
+
+    <div class="details-container">
+
+
+        <!-- ================= HEADER ================= -->
+
+        <h1>
+            🌾 {{ crop }}
+        </h1>
+
+        <p class="details-subtitle">
+            Recommended Crop Information
+        </p>
+
+
+
+        <!-- ================= CROP IMAGE ================= -->
+
+        <div class="details-image">
+
+            <img
+                src="{{ url_for('static', filename='images/' + image) }}"
+                alt="{{ crop }}"
+            >
+
+        </div>
+
+
+
+        <!-- ================= INFORMATION CARDS ================= -->
+
+        <div class="details-grid">
+
+
+            <!-- Fertilizer -->
+
+            <div class="detail-card">
+
+                <div class="detail-icon">
+                    🌱
+                </div>
+
+                <h3>
+                    Fertilizer Recommendation
+                </h3>
+
+                <p>
+                    {{ details.fertilizer }}
+                </p>
+
+            </div>
+
+
+
+            <!-- Water -->
+
+            <div class="detail-card">
+
+                <div class="detail-icon">
+                    💧
+                </div>
+
+                <h3>
+                    Water Requirement
+                </h3>
+
+                <p>
+                    {{ details.water }}
+                </p>
+
+            </div>
+
+
+
+            <!-- Temperature -->
+
+            <div class="detail-card">
+
+                <div class="detail-icon">
+                    🌡️
+                </div>
+
+                <h3>
+                    Temperature Range
+                </h3>
+
+                <p>
+                    {{ details.temperature }}
+                </p>
+
+            </div>
+
+
+
+            <!-- Season -->
+
+            <div class="detail-card">
+
+                <div class="detail-icon">
+                    📅
+                </div>
+
+                <h3>
+                    Best Season
+                </h3>
+
+                <p>
+                    {{ details.season }}
+                </p>
+
+            </div>
+
+
+        </div>
+
+
+
+        <!-- ================= DESCRIPTION ================= -->
+
+                <div class="description-card">
+
+            <h2>
+                📖 About {{ crop }}
+            </h2>
+
+            <p>
+                {{ details.description }}
+            </p>
+
+        </div>
+
+
+        <!-- ================= BACK BUTTON ================= -->
+
+        <div class="back-button-container">
+
+            <a href="{{ url_for('home') }}" class="back-button">
+                ← Back to Crop Recommendation
+            </a>
+
+        </div>

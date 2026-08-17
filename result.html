@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+
+    <meta charset="UTF-8">
+
+    <meta name="viewport"
+          content="width=device-width, initial-scale=1.0">
+
+    <title>Recommended Crop</title>
+
+    <link rel="stylesheet"
+          href="{{ url_for('static', filename='style.css') }}">
+
+</head>
+
+
+<body>
+
+
+<div class="result-page">
+
+    <div class="result-container">
+
+
+        <h1>
+            🌾 Recommended Crop
+        </h1>
+
+
+        <p class="result-subtitle">
+            Based on the provided agricultural conditions
+        </p>
+
+
+        <h2>
+            {{ crop }}
+        </h2>
+
+
+        <!-- CROP IMAGE -->
+
+        <div class="recommended-image">
+
+            <img
+                src="{{ url_for('static', filename='images/' + image) }}"
+                alt="{{ crop }}"
+            >
+
+        </div>
+
+
+        <!-- ONLY VIEW CROP DETAILS BUTTON -->
+
+        <div class="result-buttons">
+
+            <a href="{{ url_for('crop_details_page', crop=crop) }}"
+               class="result-btn">
+
+                📋 View Crop Details
+
+            </a>
+
+        </div>
+
+
+    </div>
+
+</div>
+
+
+</body>
+
+</html>
