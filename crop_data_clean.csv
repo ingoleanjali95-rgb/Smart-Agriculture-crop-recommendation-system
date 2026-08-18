@@ -1,0 +1,1001 @@
+State,Season,SoilType,N,P,K,Temperature,Humidity,pH,Rainfall,Crop
+Delhi,Kharif,Clay,22,26,21,29.2,89,5.6,261,Sesame
+Sikkim,Kharif,Loamy,20,11,84,26.3,91,7.4,171,Tomato
+Assam,Zaid,Clay,92,15,76,19.7,86,6.1,281,Bajra
+Uttarakhand,Rabi,Sandy,85,19,44,20.3,74,5.6,168,Tur
+Chhattisgarh,Zaid,Black,58,62,49,27.2,40,6.9,27,Carrot
+Rajasthan,Kharif,Alluvial,107,20,46,36.5,86,6.1,118,Spinach
+Madhya Pradesh,Zaid,Alluvial,101,55,53,25.2,57,5.6,148,Mustard
+Punjab,Zaid,Clay,109,67,26,34.4,38,5.9,154,Tomato
+Punjab,Kharif,Clay,63,64,47,20.4,53,7.6,233,Mustard
+Meghalaya,Zaid,Red,101,80,64,19.3,95,6.3,140,Onion
+Rajasthan,Kharif,Clay,68,15,61,35.7,54,7.4,165,Tomato
+Arunachal Pradesh,Rabi,Black,62,46,32,32.4,86,7.0,299,Sesame
+Telangana,Rabi,Clay,74,24,32,22.4,34,6.8,234,Barley
+Meghalaya,Kharif,Alluvial,37,33,65,26.0,77,6.5,105,Barley
+Himachal Pradesh,Kharif,Loamy,117,62,67,26.7,45,6.7,118,Barley
+Goa,Zaid,Sandy,73,58,79,35.1,36,7.5,60,Potato
+Kerala,Zaid,Red,89,50,37,26.2,84,6.4,31,Barley
+Tripura,Zaid,Clay,47,13,29,24.7,85,6.5,291,Rice
+Manipur,Kharif,Red,44,36,11,20.2,38,5.9,23,Peas
+Sikkim,Kharif,Black,117,19,53,27.8,41,7.9,58,Maize
+Chhattisgarh,Rabi,Clay,82,17,56,20.7,91,6.3,49,Peas
+West Bengal,Rabi,Sandy,35,26,87,18.0,75,7.1,118,Peas
+Chhattisgarh,Zaid,Clay,52,78,58,35.5,53,7.4,98,Coriander
+Kerala,Kharif,Clay,44,64,18,19.6,69,7.2,212,Watermelon
+Telangana,Kharif,Clay,69,79,34,19.0,70,6.0,279,Cucumber
+Jharkhand,Zaid,Black,98,22,76,30.4,80,6.5,182,Cabbage
+Telangana,Rabi,Loamy,79,76,89,26.7,76,5.7,145,Ragi
+Meghalaya,Rabi,Black,72,14,70,28.8,95,7.7,298,Gram
+Jammu and Kashmir,Kharif,Alluvial,77,76,13,19.6,44,8.0,260,Soybean
+Tamil Nadu,Kharif,Red,65,55,63,25.1,66,7.1,51,Coriander
+Sikkim,Rabi,Loamy,118,64,11,19.0,78,7.2,151,Bajra
+Jammu and Kashmir,Rabi,Alluvial,27,74,41,31.5,38,7.2,70,Soybean
+Meghalaya,Rabi,Loamy,74,12,62,28.5,80,7.3,101,Tomato
+Odisha,Zaid,Clay,56,17,11,28.1,62,5.6,97,Potato
+Goa,Zaid,Loamy,91,73,47,35.0,87,8.0,207,Chilli
+Uttar Pradesh,Zaid,Red,68,80,17,30.1,64,6.4,211,Bajra
+Gujarat,Kharif,Clay,81,16,50,21.9,31,6.8,78,Soybean
+Uttar Pradesh,Rabi,Loamy,66,34,36,20.4,78,7.1,164,Tomato
+Madhya Pradesh,Zaid,Black,30,75,67,19.1,94,7.1,42,Watermelon
+Punjab,Rabi,Clay,91,41,74,18.3,62,7.7,202,Barley
+Uttar Pradesh,Rabi,Sandy,20,19,39,28.0,42,7.7,77,Ragi
+Andhra Pradesh,Rabi,Black,85,65,42,22.4,45,7.9,84,Peas
+Telangana,Kharif,Sandy,81,43,13,19.6,69,5.6,97,Chilli
+Telangana,Rabi,Black,57,10,30,23.0,95,7.8,163,Muskmelon
+Meghalaya,Rabi,Loamy,47,40,64,35.3,64,7.6,24,Barley
+Meghalaya,Kharif,Black,73,22,61,20.1,76,5.9,27,Sesame
+Goa,Zaid,Sandy,70,76,33,24.4,33,7.2,171,Onion
+Maharashtra,Zaid,Loamy,53,71,30,37.1,70,6.3,68,Peas
+Bihar,Zaid,Clay,54,49,38,18.2,82,7.6,82,Cucumber
+Gujarat,Zaid,Red,44,25,74,29.3,89,7.7,247,Sesame
+Arunachal Pradesh,Rabi,Black,79,13,66,20.9,69,7.2,249,Coriander
+Assam,Rabi,Loamy,90,67,28,36.5,94,7.6,42,Tur
+Arunachal Pradesh,Kharif,Clay,104,42,45,22.4,40,6.7,25,Chilli
+Assam,Kharif,Black,59,21,84,23.0,67,7.9,67,Groundnut
+Uttar Pradesh,Zaid,Clay,97,46,35,31.3,46,7.9,239,Sunflower
+Himachal Pradesh,Kharif,Alluvial,61,35,26,19.8,57,6.1,184,Cabbage
+Tripura,Kharif,Red,93,20,50,26.4,72,6.6,274,Groundnut
+Arunachal Pradesh,Kharif,Red,107,59,23,22.9,55,6.5,102,Sugarcane
+Kerala,Zaid,Alluvial,100,53,61,21.1,55,6.1,58,Spinach
+Manipur,Kharif,Loamy,104,68,11,30.2,61,7.1,146,Peas
+Bihar,Rabi,Clay,112,69,55,20.6,95,5.9,151,Coriander
+Rajasthan,Zaid,Clay,42,46,17,34.5,88,7.9,261,Wheat
+Assam,Kharif,Alluvial,64,80,72,22.6,57,6.1,47,Onion
+Uttarakhand,Rabi,Red,42,17,75,18.6,56,6.0,80,Spinach
+Assam,Zaid,Black,91,16,31,19.3,81,6.6,271,Maize
+Arunachal Pradesh,Zaid,Clay,55,80,38,35.7,61,7.0,28,Spinach
+Kerala,Kharif,Alluvial,63,80,43,33.6,70,5.7,247,Potato
+Meghalaya,Zaid,Red,88,37,87,36.1,86,5.6,138,Groundnut
+Jammu and Kashmir,Rabi,Clay,107,12,41,20.4,73,6.2,152,Peas
+Assam,Rabi,Red,113,21,16,34.3,33,6.6,161,Bajra
+Rajasthan,Rabi,Red,81,11,34,34.3,65,5.6,231,Wheat
+Delhi,Rabi,Black,21,67,87,33.2,90,7.3,259,Cauliflower
+Punjab,Rabi,Loamy,117,73,74,27.2,64,6.7,254,Cauliflower
+Odisha,Kharif,Red,111,77,60,33.1,64,7.2,139,Muskmelon
+West Bengal,Rabi,Alluvial,61,32,82,36.7,76,6.5,259,Cotton
+Jammu and Kashmir,Kharif,Alluvial,42,52,10,33.8,66,5.9,154,Wheat
+Bihar,Kharif,Black,91,37,87,33.2,50,6.2,129,Mustard
+Tamil Nadu,Rabi,Red,111,54,61,29.9,31,7.2,158,Onion
+Goa,Zaid,Clay,79,56,44,29.7,64,6.4,154,Barley
+Nagaland,Zaid,Alluvial,83,53,51,19.3,80,6.0,256,Sugarcane
+Jharkhand,Rabi,Clay,108,76,81,21.5,89,7.8,217,Rice
+Jharkhand,Rabi,Clay,105,15,76,28.9,36,7.6,285,Sugarcane
+Jharkhand,Rabi,Black,57,24,47,35.1,67,6.9,224,Potato
+Uttarakhand,Kharif,Alluvial,78,44,37,37.0,58,7.0,38,Soybean
+Himachal Pradesh,Zaid,Alluvial,36,15,68,23.5,92,5.6,167,Chilli
+Maharashtra,Kharif,Loamy,41,74,47,21.7,79,7.6,226,Mustard
+Gujarat,Rabi,Sandy,30,24,44,19.2,94,5.8,288,Brinjal
+Odisha,Kharif,Red,99,56,79,33.5,33,6.8,200,Sesame
+Odisha,Zaid,Loamy,94,46,21,29.1,52,7.6,291,Ragi
+Maharashtra,Rabi,Clay,84,63,12,37.2,66,7.1,39,Brinjal
+West Bengal,Zaid,Alluvial,113,57,88,21.0,37,6.3,151,Rice
+Odisha,Kharif,Alluvial,119,26,79,33.1,64,7.0,83,Gram
+Rajasthan,Rabi,Black,54,35,63,18.8,37,6.9,234,Cucumber
+Chhattisgarh,Kharif,Alluvial,104,51,41,24.3,91,6.2,237,Tur
+Arunachal Pradesh,Rabi,Red,78,31,25,26.2,73,6.7,162,Cucumber
+West Bengal,Rabi,Loamy,72,35,36,20.4,30,7.8,237,Soybean
+Manipur,Kharif,Black,101,79,89,33.4,30,6.8,59,Tur
+Meghalaya,Rabi,Clay,91,12,38,34.1,88,7.4,153,Tomato
+Assam,Zaid,Black,40,65,70,31.5,36,6.2,64,Cucumber
+Manipur,Zaid,Black,51,80,89,25.9,77,6.8,159,Groundnut
+Bihar,Kharif,Black,114,25,30,28.0,70,7.2,71,Brinjal
+Assam,Kharif,Sandy,92,80,79,27.4,90,5.8,78,Soybean
+Himachal Pradesh,Zaid,Loamy,96,80,86,22.5,32,7.0,79,Sesame
+Manipur,Rabi,Loamy,97,51,79,37.2,34,6.0,47,Potato
+Sikkim,Zaid,Black,63,59,36,30.1,95,6.5,185,Barley
+Meghalaya,Zaid,Sandy,42,52,11,35.9,59,7.2,216,Carrot
+Punjab,Kharif,Clay,20,36,72,24.6,80,7.2,82,Barley
+Mizoram,Zaid,Red,102,68,52,19.2,43,5.9,107,Sesame
+Maharashtra,Zaid,Red,42,76,55,20.5,80,5.6,156,Sesame
+Arunachal Pradesh,Zaid,Clay,98,12,50,25.1,62,6.5,76,Barley
+Odisha,Zaid,Loamy,64,22,20,24.0,57,6.8,296,Muskmelon
+Maharashtra,Rabi,Black,40,66,56,30.0,75,6.4,194,Rice
+Bihar,Kharif,Alluvial,83,50,79,29.4,80,6.9,105,Watermelon
+Goa,Kharif,Loamy,102,36,80,24.1,84,7.8,137,Mustard
+Nagaland,Zaid,Clay,111,37,66,34.6,30,6.9,169,Maize
+Tamil Nadu,Rabi,Clay,62,15,87,25.5,73,7.1,88,Cotton
+Haryana,Kharif,Red,101,39,64,30.2,94,7.8,157,Muskmelon
+Kerala,Rabi,Sandy,89,14,13,33.1,70,6.1,126,Maize
+Arunachal Pradesh,Rabi,Sandy,55,37,82,29.9,37,7.5,54,Barley
+West Bengal,Rabi,Alluvial,33,79,28,32.5,61,6.6,131,Gram
+Manipur,Rabi,Sandy,41,18,78,25.0,45,5.9,64,Onion
+Goa,Kharif,Black,33,26,45,35.0,78,7.4,153,Sesame
+Delhi,Kharif,Sandy,33,38,44,37.3,78,8.0,185,Gram
+Arunachal Pradesh,Zaid,Alluvial,82,31,67,24.2,33,7.3,144,Soybean
+Manipur,Kharif,Clay,49,50,53,34.5,59,6.8,271,Cauliflower
+Chhattisgarh,Zaid,Alluvial,112,42,63,31.3,76,5.6,241,Chilli
+West Bengal,Zaid,Red,38,73,62,19.7,63,6.7,83,Brinjal
+Meghalaya,Rabi,Black,99,64,39,34.2,73,6.9,238,Gram
+Gujarat,Kharif,Loamy,48,73,14,31.8,39,6.3,134,Bajra
+Chhattisgarh,Rabi,Clay,120,43,56,22.4,91,7.7,137,Groundnut
+Madhya Pradesh,Zaid,Black,67,24,55,31.1,93,6.3,109,Jowar
+Jharkhand,Rabi,Alluvial,44,25,83,36.9,93,5.6,30,Cucumber
+Andhra Pradesh,Kharif,Black,111,70,47,22.3,48,7.0,100,Cotton
+Nagaland,Kharif,Red,89,57,74,28.6,86,6.4,279,Sesame
+Andhra Pradesh,Zaid,Clay,71,35,80,30.1,38,5.9,175,Muskmelon
+Jharkhand,Zaid,Sandy,41,43,66,30.6,91,6.6,204,Soybean
+Manipur,Kharif,Loamy,50,36,57,19.9,84,6.9,46,Cabbage
+Telangana,Zaid,Red,108,74,44,34.2,91,6.5,31,Jowar
+Rajasthan,Rabi,Loamy,91,80,47,27.1,43,6.2,276,Onion
+Punjab,Rabi,Alluvial,85,44,31,35.6,43,6.8,85,Sunflower
+Maharashtra,Kharif,Red,81,28,58,38.0,70,6.4,216,Soybean
+Punjab,Rabi,Black,57,14,68,23.7,56,7.0,181,Watermelon
+Andhra Pradesh,Zaid,Clay,110,73,14,30.7,55,6.1,111,Tur
+Uttar Pradesh,Kharif,Black,47,69,85,18.2,55,7.3,82,Peas
+Uttarakhand,Zaid,Black,37,27,71,23.7,75,7.1,45,Cauliflower
+Andhra Pradesh,Rabi,Sandy,108,31,90,32.9,67,7.5,96,Ragi
+Haryana,Zaid,Black,25,20,54,21.2,46,7.0,230,Ragi
+Kerala,Rabi,Alluvial,68,62,43,19.9,35,6.3,61,Tomato
+Madhya Pradesh,Rabi,Red,115,42,64,28.3,65,5.6,233,Sugarcane
+Himachal Pradesh,Kharif,Black,103,59,47,28.5,36,6.4,243,Ragi
+Sikkim,Rabi,Black,63,39,72,26.1,71,7.9,158,Groundnut
+Andhra Pradesh,Rabi,Clay,73,56,80,35.0,55,7.0,294,Peas
+Gujarat,Kharif,Alluvial,73,62,30,21.6,58,7.7,27,Wheat
+Madhya Pradesh,Rabi,Loamy,96,68,67,29.6,90,6.0,262,Peas
+Himachal Pradesh,Rabi,Loamy,37,30,32,34.4,67,7.8,29,Soybean
+Maharashtra,Kharif,Sandy,114,70,42,19.6,69,7.3,49,Tomato
+Uttar Pradesh,Zaid,Red,74,17,90,22.5,34,6.2,187,Brinjal
+Nagaland,Kharif,Alluvial,90,29,19,20.3,69,6.3,100,Barley
+Odisha,Zaid,Clay,42,41,88,25.5,76,6.7,277,Barley
+Arunachal Pradesh,Zaid,Sandy,103,27,90,32.3,81,6.5,60,Bajra
+Manipur,Rabi,Sandy,87,60,46,33.2,90,6.4,286,Cotton
+Karnataka,Rabi,Sandy,116,12,79,20.9,47,5.9,171,Wheat
+Nagaland,Rabi,Black,99,10,85,18.7,77,7.3,41,Peas
+Punjab,Rabi,Alluvial,22,68,65,23.8,45,7.1,80,Tomato
+Kerala,Zaid,Clay,50,63,50,19.4,70,7.6,237,Ragi
+Meghalaya,Rabi,Alluvial,101,32,50,33.2,55,7.7,275,Carrot
+Assam,Rabi,Alluvial,37,18,72,23.0,62,7.9,80,Brinjal
+Rajasthan,Zaid,Red,76,77,41,20.9,95,7.0,288,Tur
+Kerala,Zaid,Black,65,60,40,27.4,37,6.3,284,Gram
+Nagaland,Zaid,Black,48,12,75,31.2,54,5.7,118,Sugarcane
+Odisha,Rabi,Sandy,73,17,39,33.0,59,7.8,164,Maize
+Gujarat,Kharif,Red,101,43,90,33.4,85,7.6,104,Tur
+Karnataka,Zaid,Sandy,57,51,41,29.1,76,8.0,192,Brinjal
+Maharashtra,Zaid,Clay,68,68,54,27.9,31,6.3,214,Gram
+Telangana,Zaid,Clay,76,13,29,25.4,75,6.8,70,Onion
+Punjab,Zaid,Black,40,41,30,27.9,67,5.7,60,Sunflower
+Nagaland,Zaid,Alluvial,45,13,44,33.6,88,5.7,133,Chilli
+Punjab,Kharif,Clay,105,73,50,27.8,32,7.4,188,Soybean
+Bihar,Zaid,Alluvial,83,24,82,25.2,66,7.1,85,Sesame
+Gujarat,Zaid,Clay,42,61,20,22.8,41,6.3,85,Cauliflower
+West Bengal,Zaid,Clay,111,29,51,24.8,41,6.7,118,Jowar
+Jharkhand,Zaid,Loamy,41,45,14,37.9,50,6.6,191,Sugarcane
+Punjab,Rabi,Red,34,30,69,20.6,79,7.3,62,Carrot
+Tamil Nadu,Kharif,Clay,54,44,63,35.1,83,7.6,237,Barley
+Himachal Pradesh,Rabi,Loamy,33,10,28,25.9,78,6.2,102,Chilli
+West Bengal,Rabi,Loamy,30,68,65,30.6,66,7.0,290,Brinjal
+West Bengal,Zaid,Loamy,71,47,33,24.5,48,7.5,153,Bajra
+Telangana,Rabi,Loamy,39,76,60,18.5,71,6.7,209,Barley
+Manipur,Rabi,Red,80,67,42,23.2,86,6.4,172,Cucumber
+Manipur,Zaid,Black,78,70,22,34.3,68,7.9,269,Onion
+West Bengal,Rabi,Alluvial,56,49,25,34.1,42,6.3,287,Cauliflower
+Tamil Nadu,Rabi,Sandy,109,41,39,29.8,65,7.0,276,Peas
+Manipur,Zaid,Black,27,38,35,29.1,94,7.2,62,Groundnut
+Uttar Pradesh,Kharif,Black,41,80,14,29.7,63,6.1,141,Gram
+Kerala,Rabi,Black,60,38,67,28.9,61,5.8,65,Mustard
+Tripura,Kharif,Clay,100,24,41,34.3,67,5.6,162,Peas
+Jharkhand,Zaid,Loamy,70,57,66,30.4,74,7.2,56,Groundnut
+Jharkhand,Rabi,Clay,91,74,28,20.3,90,7.2,166,Ragi
+Bihar,Zaid,Clay,70,59,11,30.3,51,7.2,59,Peas
+Kerala,Zaid,Loamy,25,69,15,23.8,81,7.8,167,Tur
+Manipur,Zaid,Red,40,43,83,37.0,58,6.8,169,Cabbage
+Uttarakhand,Rabi,Black,65,49,11,21.8,94,7.0,143,Spinach
+West Bengal,Zaid,Sandy,53,60,31,36.7,62,7.5,164,Potato
+Jammu and Kashmir,Rabi,Clay,86,77,11,36.4,52,7.2,145,Potato
+Andhra Pradesh,Rabi,Clay,117,52,44,20.2,72,6.0,84,Maize
+Tamil Nadu,Kharif,Loamy,45,64,84,32.1,48,7.4,271,Sunflower
+Nagaland,Zaid,Clay,79,45,74,31.5,87,7.2,99,Barley
+Andhra Pradesh,Zaid,Loamy,116,67,21,35.3,88,8.0,151,Tur
+Andhra Pradesh,Zaid,Alluvial,71,31,80,30.8,89,5.6,172,Mustard
+Telangana,Zaid,Alluvial,115,45,20,18.1,39,7.8,91,Sesame
+Chhattisgarh,Kharif,Alluvial,112,58,66,18.4,88,6.2,141,Sunflower
+Punjab,Kharif,Clay,64,36,29,28.4,45,7.5,273,Mustard
+Goa,Zaid,Clay,110,38,47,25.8,70,7.6,207,Jowar
+Andhra Pradesh,Rabi,Red,44,10,42,22.5,70,6.9,29,Barley
+Maharashtra,Rabi,Sandy,107,52,66,33.8,46,5.5,188,Sunflower
+Sikkim,Kharif,Loamy,101,31,24,20.7,52,6.0,22,Muskmelon
+Telangana,Zaid,Sandy,51,78,19,30.3,58,5.9,131,Gram
+Bihar,Rabi,Loamy,120,16,42,34.1,78,6.6,252,Cotton
+Haryana,Rabi,Clay,34,32,55,20.8,57,6.6,67,Sesame
+Jharkhand,Kharif,Loamy,87,38,27,32.1,72,6.6,191,Cotton
+Tamil Nadu,Kharif,Loamy,55,49,74,27.9,38,7.2,296,Gram
+West Bengal,Kharif,Alluvial,83,57,62,21.8,73,6.4,137,Sunflower
+Uttar Pradesh,Zaid,Loamy,44,30,69,36.5,49,7.5,251,Potato
+Meghalaya,Rabi,Red,83,58,60,29.1,74,7.7,128,Mustard
+Haryana,Rabi,Alluvial,61,52,71,35.6,78,7.8,65,Chilli
+Jharkhand,Rabi,Red,109,41,55,23.0,30,7.9,98,Chilli
+Gujarat,Zaid,Black,55,56,46,18.9,56,7.9,31,Sunflower
+Punjab,Rabi,Red,92,74,56,38.0,34,5.8,173,Bajra
+Andhra Pradesh,Rabi,Black,56,20,68,19.6,47,5.6,75,Barley
+Telangana,Kharif,Sandy,84,25,89,36.2,91,5.7,277,Gram
+Madhya Pradesh,Kharif,Black,81,79,80,35.3,50,7.8,69,Watermelon
+Jharkhand,Rabi,Loamy,101,36,74,23.7,30,7.2,73,Muskmelon
+Andhra Pradesh,Rabi,Clay,58,38,81,32.1,49,6.1,252,Cabbage
+Sikkim,Zaid,Alluvial,86,80,75,31.3,39,6.3,195,Ragi
+Jharkhand,Zaid,Alluvial,111,51,37,34.4,63,5.6,106,Barley
+Tripura,Kharif,Loamy,96,66,14,21.0,56,7.9,72,Cotton
+Sikkim,Rabi,Clay,99,47,73,36.7,32,5.6,65,Chilli
+Jammu and Kashmir,Rabi,Clay,110,34,82,33.9,37,5.6,45,Chilli
+Madhya Pradesh,Rabi,Sandy,78,28,21,22.6,48,7.4,88,Brinjal
+Maharashtra,Rabi,Clay,120,17,70,35.7,30,7.4,215,Groundnut
+Maharashtra,Rabi,Alluvial,61,71,36,33.5,41,5.5,215,Onion
+Mizoram,Rabi,Red,79,76,30,31.6,51,7.3,49,Coriander
+Nagaland,Zaid,Alluvial,47,64,65,36.9,50,6.9,244,Muskmelon
+Assam,Zaid,Loamy,48,64,19,36.4,79,6.6,119,Bajra
+Tripura,Kharif,Loamy,80,57,30,34.2,94,5.6,264,Spinach
+Punjab,Kharif,Red,29,41,84,31.6,47,7.0,141,Ragi
+Manipur,Zaid,Black,39,14,60,27.9,62,7.9,221,Rice
+Chhattisgarh,Kharif,Loamy,84,19,85,19.8,64,5.7,78,Potato
+Tripura,Kharif,Clay,48,67,16,26.2,58,7.8,125,Onion
+Tamil Nadu,Rabi,Red,108,64,23,24.7,91,6.6,102,Cabbage
+Telangana,Rabi,Red,28,41,38,21.1,91,6.7,100,Tomato
+Mizoram,Zaid,Black,71,30,57,28.8,60,6.5,73,Onion
+Delhi,Kharif,Sandy,32,33,75,20.6,43,6.8,85,Cabbage
+Uttar Pradesh,Rabi,Loamy,25,60,54,24.7,43,7.0,218,Chilli
+Kerala,Rabi,Loamy,40,53,34,31.1,59,6.9,83,Sunflower
+Karnataka,Zaid,Red,22,51,67,18.7,91,6.5,195,Potato
+Rajasthan,Rabi,Sandy,60,70,88,29.2,62,7.9,242,Mustard
+Arunachal Pradesh,Zaid,Sandy,110,53,39,31.9,46,6.3,34,Onion
+Maharashtra,Zaid,Loamy,55,50,10,33.1,67,5.6,243,Cotton
+Andhra Pradesh,Kharif,Clay,38,62,15,19.9,69,6.9,28,Tomato
+Bihar,Zaid,Sandy,60,64,15,34.1,37,5.6,211,Bajra
+Delhi,Zaid,Alluvial,35,15,55,29.5,67,5.6,262,Tomato
+Tripura,Kharif,Black,74,76,28,30.8,62,5.8,171,Rice
+Meghalaya,Kharif,Sandy,40,55,45,24.1,39,7.9,175,Tomato
+Delhi,Rabi,Sandy,64,16,48,29.5,85,6.2,282,Onion
+Uttarakhand,Zaid,Sandy,98,14,40,37.8,50,7.6,47,Onion
+Karnataka,Kharif,Red,76,12,13,29.8,87,5.5,49,Soybean
+Goa,Zaid,Sandy,48,10,48,34.7,64,7.9,184,Chilli
+Chhattisgarh,Zaid,Clay,48,66,84,18.6,61,7.6,87,Sugarcane
+Sikkim,Zaid,Black,34,48,15,20.1,92,5.8,40,Tomato
+Tamil Nadu,Kharif,Loamy,35,21,90,36.8,43,5.7,179,Cotton
+Gujarat,Zaid,Clay,55,15,69,32.4,46,7.6,107,Tomato
+Goa,Zaid,Clay,117,37,50,33.2,34,7.0,117,Cauliflower
+Mizoram,Rabi,Sandy,72,66,26,21.7,87,7.1,109,Cabbage
+West Bengal,Rabi,Red,78,41,67,38.0,32,6.4,91,Rice
+Andhra Pradesh,Zaid,Red,112,68,72,21.2,64,6.6,152,Watermelon
+Mizoram,Rabi,Clay,40,43,17,25.1,74,7.5,175,Sesame
+Maharashtra,Zaid,Red,118,53,33,29.5,37,7.9,34,Carrot
+Mizoram,Rabi,Clay,32,36,58,19.0,38,6.9,272,Rice
+Jammu and Kashmir,Zaid,Clay,103,57,40,26.3,45,6.0,235,Maize
+Haryana,Zaid,Clay,32,68,32,25.1,67,5.7,147,Bajra
+Manipur,Rabi,Sandy,117,17,79,32.8,66,5.8,164,Carrot
+Jharkhand,Kharif,Red,73,22,54,19.7,34,7.6,74,Mustard
+Karnataka,Kharif,Alluvial,39,50,54,34.5,51,6.0,287,Watermelon
+Goa,Rabi,Sandy,89,78,74,28.5,91,6.6,159,Rice
+Nagaland,Zaid,Sandy,56,54,52,18.2,93,8.0,183,Jowar
+Jharkhand,Zaid,Alluvial,111,48,52,36.6,70,5.9,219,Cauliflower
+Jammu and Kashmir,Kharif,Black,111,26,88,36.9,69,7.8,280,Coriander
+Tamil Nadu,Rabi,Loamy,66,43,70,23.4,39,7.4,232,Muskmelon
+Sikkim,Rabi,Red,99,18,72,32.8,78,6.1,179,Jowar
+Tripura,Zaid,Clay,21,75,52,36.3,49,5.9,222,Brinjal
+Telangana,Rabi,Red,20,19,70,23.4,35,6.0,67,Tur
+Haryana,Kharif,Alluvial,46,32,70,35.5,38,6.6,283,Jowar
+Telangana,Kharif,Black,93,23,26,20.9,76,7.2,127,Onion
+Tripura,Kharif,Loamy,67,24,80,27.6,42,6.0,289,Spinach
+Arunachal Pradesh,Rabi,Sandy,55,25,14,25.8,67,7.2,53,Bajra
+Haryana,Zaid,Loamy,119,12,75,32.5,95,7.7,294,Tomato
+West Bengal,Kharif,Loamy,102,80,46,38.0,48,6.4,125,Tur
+Maharashtra,Kharif,Black,48,38,19,20.3,51,7.1,158,Sesame
+Gujarat,Rabi,Red,89,32,70,30.4,90,6.6,292,Coriander
+Himachal Pradesh,Kharif,Alluvial,24,63,69,35.5,67,6.9,156,Potato
+Goa,Rabi,Loamy,74,17,71,25.4,54,7.1,179,Potato
+Kerala,Rabi,Red,88,72,24,22.4,60,5.7,284,Cauliflower
+Arunachal Pradesh,Rabi,Sandy,105,71,57,21.6,95,6.6,128,Watermelon
+Delhi,Rabi,Clay,83,33,77,19.7,58,6.5,171,Cotton
+Rajasthan,Zaid,Red,114,25,51,18.5,61,7.5,194,Peas
+Meghalaya,Kharif,Red,39,62,31,19.5,60,6.9,269,Cabbage
+Arunachal Pradesh,Rabi,Black,42,27,75,19.7,61,5.9,167,Cauliflower
+Bihar,Rabi,Alluvial,41,15,83,31.6,59,7.2,275,Carrot
+Mizoram,Zaid,Clay,99,47,71,27.5,69,7.3,183,Cauliflower
+Odisha,Rabi,Sandy,92,52,58,31.9,89,6.5,120,Sesame
+Madhya Pradesh,Zaid,Red,106,40,39,32.3,61,6.5,217,Maize
+Uttarakhand,Zaid,Sandy,99,19,59,25.5,39,7.4,177,Onion
+Punjab,Rabi,Clay,117,17,48,20.6,37,7.5,149,Ragi
+Tamil Nadu,Kharif,Clay,21,51,34,28.9,94,7.5,165,Rice
+West Bengal,Zaid,Black,86,44,31,23.6,61,6.1,274,Sunflower
+Arunachal Pradesh,Rabi,Black,38,25,65,32.3,55,5.6,196,Spinach
+Punjab,Zaid,Sandy,106,25,72,18.1,53,7.6,277,Gram
+Arunachal Pradesh,Zaid,Sandy,65,79,30,37.0,38,7.6,234,Spinach
+West Bengal,Zaid,Red,51,23,46,21.6,30,6.3,159,Muskmelon
+Chhattisgarh,Zaid,Red,43,59,79,27.0,83,7.3,276,Soybean
+Assam,Zaid,Loamy,89,70,36,37.8,88,7.0,224,Potato
+Jharkhand,Rabi,Red,109,10,73,20.7,50,7.8,170,Soybean
+Nagaland,Rabi,Sandy,88,62,73,23.3,90,6.3,37,Mustard
+Madhya Pradesh,Zaid,Black,26,76,39,31.7,63,6.4,55,Jowar
+Sikkim,Zaid,Black,41,24,44,23.0,50,6.1,251,Muskmelon
+West Bengal,Rabi,Black,44,69,41,34.6,55,6.7,281,Brinjal
+Manipur,Kharif,Loamy,46,72,82,29.0,40,5.5,30,Sunflower
+Tripura,Kharif,Sandy,20,34,25,30.4,32,7.6,142,Mustard
+Rajasthan,Rabi,Black,73,23,13,35.0,93,6.2,206,Carrot
+Kerala,Rabi,Sandy,110,76,76,24.7,39,6.3,296,Sunflower
+Tamil Nadu,Zaid,Alluvial,107,62,32,32.5,79,7.1,266,Coriander
+Uttarakhand,Kharif,Black,25,52,32,24.2,32,5.8,181,Cotton
+Bihar,Kharif,Black,32,78,33,33.8,44,7.5,286,Rice
+Tripura,Kharif,Sandy,119,57,75,23.5,86,5.7,24,Soybean
+Arunachal Pradesh,Rabi,Clay,92,48,75,21.8,59,6.8,210,Rice
+Karnataka,Rabi,Loamy,61,50,31,35.0,31,6.5,291,Cotton
+Jammu and Kashmir,Kharif,Sandy,114,19,23,27.1,84,7.5,273,Barley
+Uttar Pradesh,Zaid,Sandy,63,66,70,19.5,79,6.5,65,Peas
+Karnataka,Zaid,Black,87,70,81,33.3,66,7.7,73,Potato
+Tamil Nadu,Kharif,Sandy,63,54,78,29.4,40,7.9,142,Carrot
+Jammu and Kashmir,Kharif,Red,114,10,69,32.5,84,7.0,26,Wheat
+Himachal Pradesh,Rabi,Loamy,47,65,31,24.2,95,5.7,295,Tur
+Odisha,Kharif,Alluvial,70,44,80,36.1,94,7.3,121,Rice
+Telangana,Kharif,Clay,110,21,32,21.9,33,7.9,242,Peas
+Tamil Nadu,Rabi,Red,67,78,27,38.0,83,7.3,120,Jowar
+Tamil Nadu,Rabi,Clay,25,55,35,20.5,82,6.5,262,Sesame
+Assam,Kharif,Loamy,23,27,79,36.2,36,5.5,299,Wheat
+Manipur,Zaid,Loamy,68,78,49,19.7,51,7.7,129,Watermelon
+Odisha,Rabi,Sandy,115,18,14,19.4,37,6.3,60,Peas
+Haryana,Zaid,Sandy,106,28,10,30.9,81,5.5,80,Maize
+Goa,Zaid,Alluvial,64,58,10,29.1,93,7.9,86,Spinach
+Punjab,Kharif,Sandy,95,48,59,34.4,33,6.5,221,Onion
+Jharkhand,Rabi,Alluvial,36,36,26,27.1,53,6.1,229,Cabbage
+Jharkhand,Zaid,Sandy,25,10,60,20.7,95,6.9,260,Onion
+Odisha,Kharif,Loamy,72,47,32,29.4,69,5.7,86,Maize
+Delhi,Zaid,Loamy,109,44,42,36.2,75,7.3,176,Carrot
+Karnataka,Kharif,Black,64,50,75,26.9,88,7.2,284,Potato
+Himachal Pradesh,Kharif,Sandy,88,65,46,26.7,35,6.5,101,Watermelon
+Tamil Nadu,Zaid,Red,70,19,72,25.0,35,5.8,254,Muskmelon
+Jammu and Kashmir,Kharif,Alluvial,50,36,28,28.6,75,6.2,284,Maize
+Haryana,Kharif,Clay,62,13,83,20.1,69,5.7,37,Chilli
+Tamil Nadu,Rabi,Clay,84,68,67,26.8,67,6.5,48,Spinach
+Telangana,Rabi,Black,78,19,21,33.1,83,6.5,110,Ragi
+Arunachal Pradesh,Zaid,Sandy,45,26,66,31.6,36,6.5,128,Soybean
+Nagaland,Zaid,Alluvial,24,50,16,21.4,67,6.5,82,Ragi
+Meghalaya,Kharif,Loamy,22,69,28,20.1,31,7.6,76,Cabbage
+Mizoram,Zaid,Clay,114,51,73,23.1,63,6.8,114,Wheat
+Sikkim,Rabi,Clay,29,55,80,32.4,83,6.0,50,Cauliflower
+Karnataka,Zaid,Sandy,57,36,70,26.5,73,7.3,152,Tur
+Manipur,Zaid,Clay,28,71,13,30.1,42,7.0,55,Tur
+Uttar Pradesh,Zaid,Alluvial,94,33,63,34.8,35,5.8,36,Sunflower
+Punjab,Zaid,Loamy,23,51,75,35.8,32,5.6,246,Watermelon
+Himachal Pradesh,Rabi,Clay,58,29,58,23.8,51,6.2,96,Rice
+Haryana,Kharif,Sandy,90,71,27,23.8,95,7.2,156,Soybean
+Goa,Rabi,Alluvial,48,60,34,31.5,40,7.1,120,Brinjal
+Goa,Zaid,Red,108,36,44,20.3,81,7.5,133,Muskmelon
+Tamil Nadu,Rabi,Black,45,47,75,27.3,40,7.7,40,Potato
+Odisha,Zaid,Black,104,42,14,33.1,45,5.6,270,Groundnut
+Uttarakhand,Zaid,Loamy,72,58,29,18.3,39,6.8,20,Watermelon
+Sikkim,Rabi,Alluvial,72,32,75,19.1,84,7.3,233,Sunflower
+Andhra Pradesh,Zaid,Clay,104,59,16,18.4,79,6.8,214,Soybean
+Tamil Nadu,Zaid,Loamy,111,16,52,27.4,53,8.0,59,Soybean
+Nagaland,Kharif,Clay,42,65,44,21.4,83,7.3,70,Carrot
+Chhattisgarh,Zaid,Red,72,41,23,18.0,76,7.2,63,Chilli
+Bihar,Zaid,Sandy,109,68,67,32.7,31,6.8,76,Tur
+Nagaland,Kharif,Clay,52,49,46,34.9,70,6.7,166,Sugarcane
+Bihar,Rabi,Clay,118,58,12,35.3,88,7.2,76,Soybean
+Bihar,Rabi,Black,81,31,56,28.9,43,7.8,222,Barley
+Arunachal Pradesh,Rabi,Loamy,21,38,38,29.0,84,6.4,24,Tur
+Jammu and Kashmir,Kharif,Clay,41,77,51,25.2,81,5.8,224,Onion
+Rajasthan,Kharif,Red,45,28,65,23.7,46,5.7,35,Gram
+Bihar,Kharif,Alluvial,116,36,41,28.3,77,6.0,44,Cauliflower
+Meghalaya,Zaid,Loamy,76,73,53,33.5,93,7.8,227,Brinjal
+Delhi,Kharif,Loamy,100,17,27,24.9,87,7.2,205,Cabbage
+Bihar,Rabi,Sandy,27,51,71,35.0,61,5.7,55,Ragi
+Kerala,Zaid,Loamy,104,76,10,28.5,63,7.5,57,Soybean
+Kerala,Zaid,Clay,116,15,78,25.9,30,6.4,198,Sunflower
+Tripura,Zaid,Black,75,45,72,24.8,49,6.6,273,Watermelon
+Haryana,Rabi,Alluvial,114,21,52,36.1,60,7.5,196,Wheat
+Tamil Nadu,Kharif,Sandy,50,53,35,34.9,45,6.8,186,Mustard
+Punjab,Kharif,Alluvial,57,18,22,26.8,52,7.6,205,Gram
+West Bengal,Kharif,Sandy,84,45,18,20.4,69,6.1,41,Peas
+West Bengal,Zaid,Clay,88,12,72,32.8,55,5.7,158,Coriander
+Karnataka,Zaid,Alluvial,50,17,24,29.9,45,6.9,155,Bajra
+Goa,Rabi,Sandy,80,20,33,35.6,30,7.5,98,Soybean
+Chhattisgarh,Zaid,Loamy,79,71,57,33.9,60,6.4,59,Jowar
+Himachal Pradesh,Zaid,Red,40,71,51,36.4,59,7.2,21,Gram
+Meghalaya,Rabi,Black,49,27,64,18.3,42,7.4,81,Groundnut
+Delhi,Kharif,Alluvial,26,52,48,27.7,66,7.1,214,Muskmelon
+Odisha,Kharif,Loamy,120,12,27,37.5,63,5.5,46,Jowar
+Goa,Zaid,Alluvial,69,41,36,28.5,95,7.4,89,Carrot
+Delhi,Rabi,Alluvial,26,30,34,21.4,63,7.8,38,Chilli
+Uttarakhand,Zaid,Black,36,11,88,31.0,79,6.5,86,Cotton
+Haryana,Kharif,Red,53,73,55,32.1,48,7.9,137,Rice
+Haryana,Zaid,Loamy,64,25,75,35.5,33,5.9,116,Cauliflower
+Punjab,Rabi,Alluvial,40,42,61,25.0,88,7.4,128,Onion
+Punjab,Kharif,Black,44,23,50,33.6,93,7.6,182,Sugarcane
+Telangana,Kharif,Red,89,12,20,20.0,56,6.0,46,Cauliflower
+Manipur,Zaid,Black,43,76,40,24.9,52,7.7,265,Wheat
+Assam,Kharif,Clay,106,40,53,25.3,76,6.7,169,Potato
+Rajasthan,Kharif,Black,59,37,73,37.7,71,7.1,169,Mustard
+Tamil Nadu,Rabi,Red,101,22,85,19.2,94,7.4,209,Muskmelon
+Meghalaya,Rabi,Red,100,44,40,34.3,89,7.2,254,Barley
+Sikkim,Rabi,Black,84,46,80,20.8,71,7.5,51,Muskmelon
+Madhya Pradesh,Kharif,Alluvial,33,15,35,30.9,32,6.2,31,Jowar
+Haryana,Kharif,Sandy,50,12,86,26.6,70,7.7,300,Cotton
+Arunachal Pradesh,Zaid,Red,31,15,37,27.2,77,6.5,232,Cucumber
+Gujarat,Rabi,Sandy,68,30,65,18.3,42,6.8,181,Sugarcane
+Punjab,Kharif,Loamy,39,59,15,19.9,94,7.6,142,Coriander
+Maharashtra,Kharif,Black,34,32,27,36.2,36,7.4,279,Tur
+Rajasthan,Zaid,Alluvial,74,31,29,28.8,32,5.6,250,Barley
+Assam,Kharif,Sandy,22,31,82,32.9,48,5.9,36,Coriander
+Gujarat,Rabi,Sandy,63,65,51,31.4,46,7.1,270,Groundnut
+West Bengal,Zaid,Black,63,38,31,21.5,43,7.8,145,Groundnut
+Punjab,Kharif,Clay,77,21,25,34.8,47,7.7,249,Sugarcane
+Meghalaya,Zaid,Black,99,80,44,18.7,78,7.4,273,Rice
+Andhra Pradesh,Zaid,Clay,29,28,12,32.2,75,6.4,115,Chilli
+Haryana,Kharif,Loamy,64,72,44,30.7,40,6.9,131,Bajra
+Andhra Pradesh,Rabi,Alluvial,25,58,42,31.3,74,7.9,266,Sunflower
+Bihar,Kharif,Sandy,56,10,55,32.1,51,7.5,91,Coriander
+Himachal Pradesh,Rabi,Red,104,61,47,20.7,33,5.5,151,Cabbage
+Sikkim,Rabi,Sandy,107,26,41,36.4,34,7.0,241,Tur
+Tamil Nadu,Zaid,Alluvial,55,78,54,25.6,63,6.6,127,Mustard
+Gujarat,Kharif,Black,90,69,60,33.0,39,7.4,229,Ragi
+Gujarat,Rabi,Loamy,72,69,21,27.4,73,7.8,208,Soybean
+Haryana,Rabi,Red,29,46,78,37.6,58,7.8,141,Sugarcane
+Himachal Pradesh,Zaid,Black,80,70,20,28.4,76,6.6,189,Onion
+Nagaland,Kharif,Alluvial,91,29,61,20.9,72,6.7,294,Sesame
+Bihar,Rabi,Black,28,40,77,30.5,39,5.6,224,Groundnut
+Maharashtra,Kharif,Alluvial,21,39,34,18.9,91,6.4,26,Spinach
+Nagaland,Rabi,Black,97,78,44,19.0,68,6.6,94,Watermelon
+Goa,Rabi,Clay,21,73,60,27.9,43,6.6,262,Cauliflower
+Delhi,Zaid,Alluvial,109,68,26,31.7,90,6.6,113,Cabbage
+Sikkim,Kharif,Alluvial,91,79,56,26.6,77,7.7,164,Cotton
+West Bengal,Zaid,Sandy,30,48,13,22.8,94,6.0,286,Coriander
+Jammu and Kashmir,Rabi,Alluvial,57,44,31,29.2,91,7.9,262,Spinach
+Kerala,Zaid,Red,28,66,14,36.9,48,6.3,38,Muskmelon
+Gujarat,Zaid,Sandy,48,45,15,33.8,76,7.5,180,Tur
+Manipur,Rabi,Sandy,38,22,60,27.2,56,5.9,80,Gram
+Delhi,Kharif,Clay,41,55,57,34.6,40,6.3,284,Peas
+Telangana,Rabi,Loamy,23,25,34,20.2,70,6.6,105,Groundnut
+Haryana,Zaid,Clay,90,10,33,23.5,45,7.9,24,Tomato
+Tripura,Zaid,Black,78,48,26,22.6,41,5.5,86,Potato
+Rajasthan,Rabi,Black,34,75,13,25.3,62,8.0,55,Groundnut
+Uttar Pradesh,Rabi,Sandy,29,26,27,33.5,57,5.6,119,Spinach
+Nagaland,Zaid,Loamy,108,17,36,33.2,59,7.5,43,Cauliflower
+Telangana,Rabi,Clay,80,76,42,22.1,35,7.5,285,Watermelon
+Punjab,Kharif,Clay,41,74,16,30.3,43,5.6,21,Carrot
+Odisha,Kharif,Red,106,22,60,26.3,67,7.1,181,Brinjal
+Himachal Pradesh,Kharif,Loamy,110,77,66,21.4,68,6.3,63,Onion
+Odisha,Zaid,Red,117,28,29,24.2,44,6.8,35,Gram
+Goa,Kharif,Black,78,69,83,20.4,81,6.9,122,Onion
+Delhi,Rabi,Alluvial,23,29,30,18.4,35,5.9,270,Cucumber
+Haryana,Rabi,Alluvial,21,65,51,34.6,47,6.2,241,Cucumber
+Mizoram,Rabi,Alluvial,32,15,13,20.3,45,7.2,179,Spinach
+Nagaland,Rabi,Black,115,77,86,22.4,37,7.5,139,Soybean
+Himachal Pradesh,Zaid,Red,87,37,32,18.5,68,6.5,218,Coriander
+Chhattisgarh,Zaid,Alluvial,117,71,14,30.3,35,6.3,289,Cauliflower
+Arunachal Pradesh,Rabi,Loamy,21,34,15,26.9,56,7.4,295,Watermelon
+Delhi,Kharif,Red,56,35,77,32.1,58,7.8,208,Cotton
+Karnataka,Rabi,Black,54,75,17,34.7,90,7.6,208,Jowar
+Karnataka,Kharif,Black,115,66,63,26.7,88,6.3,87,Gram
+Tripura,Zaid,Black,41,60,21,22.9,85,6.3,275,Onion
+Odisha,Kharif,Loamy,109,16,67,27.7,92,7.1,245,Maize
+Himachal Pradesh,Rabi,Sandy,87,70,21,24.0,59,6.1,192,Groundnut
+Maharashtra,Rabi,Red,65,41,54,24.9,78,7.9,30,Sunflower
+Assam,Rabi,Clay,87,19,35,25.5,50,7.2,46,Cauliflower
+Delhi,Rabi,Sandy,114,52,67,19.6,69,7.6,289,Tur
+Jammu and Kashmir,Rabi,Red,119,18,16,18.0,45,6.1,228,Cucumber
+Uttar Pradesh,Kharif,Sandy,79,10,84,32.5,68,6.5,278,Cotton
+Gujarat,Zaid,Clay,48,20,47,37.2,91,7.7,238,Cabbage
+Madhya Pradesh,Zaid,Black,80,39,15,35.8,94,6.3,70,Soybean
+Manipur,Rabi,Sandy,30,41,44,21.1,59,7.8,133,Cotton
+Karnataka,Rabi,Red,30,67,82,23.1,85,7.5,112,Potato
+Madhya Pradesh,Zaid,Black,26,15,17,34.6,45,6.1,234,Rice
+Madhya Pradesh,Kharif,Loamy,88,18,84,26.4,38,5.8,81,Cotton
+Uttarakhand,Zaid,Red,47,31,52,29.6,69,8.0,50,Carrot
+Goa,Rabi,Alluvial,85,45,61,31.0,46,7.3,137,Sesame
+Madhya Pradesh,Rabi,Loamy,79,33,90,26.8,66,7.1,135,Groundnut
+Punjab,Zaid,Alluvial,59,50,32,24.2,35,7.0,297,Soybean
+Nagaland,Zaid,Black,105,63,11,19.1,67,8.0,215,Sunflower
+Tamil Nadu,Kharif,Loamy,103,74,69,28.1,53,7.1,286,Cauliflower
+Jammu and Kashmir,Zaid,Red,115,50,36,36.0,59,7.4,294,Cotton
+Goa,Rabi,Black,29,73,26,20.5,33,6.5,149,Groundnut
+Odisha,Kharif,Black,34,55,73,24.6,54,7.3,190,Soybean
+Tripura,Kharif,Red,90,75,37,37.4,91,5.9,78,Coriander
+Arunachal Pradesh,Rabi,Alluvial,41,36,88,22.7,51,6.2,49,Chilli
+Delhi,Kharif,Loamy,36,14,26,36.6,95,6.2,94,Cucumber
+Karnataka,Rabi,Alluvial,96,29,73,37.6,86,6.1,248,Cauliflower
+West Bengal,Zaid,Loamy,73,65,62,36.9,89,6.1,84,Sunflower
+Tamil Nadu,Kharif,Loamy,39,62,13,20.4,80,7.8,280,Maize
+Uttarakhand,Kharif,Red,24,43,54,25.3,34,5.6,76,Chilli
+Chhattisgarh,Rabi,Red,34,46,14,34.3,45,6.6,191,Sugarcane
+Meghalaya,Rabi,Red,35,75,49,32.1,83,6.8,287,Brinjal
+Delhi,Rabi,Red,27,58,70,27.7,53,5.9,27,Sesame
+Madhya Pradesh,Zaid,Clay,35,23,21,24.6,53,6.0,71,Maize
+Tamil Nadu,Rabi,Alluvial,64,65,66,31.8,75,6.6,134,Wheat
+Tripura,Kharif,Clay,43,51,71,25.0,81,6.0,274,Sesame
+Gujarat,Kharif,Loamy,32,28,30,30.9,55,6.5,260,Cabbage
+Mizoram,Zaid,Sandy,56,21,36,24.6,53,5.8,144,Muskmelon
+West Bengal,Zaid,Black,120,65,74,27.6,88,6.8,104,Sunflower
+Bihar,Kharif,Loamy,77,15,54,27.8,51,6.7,89,Soybean
+Bihar,Kharif,Red,78,55,61,18.9,66,5.7,298,Muskmelon
+Mizoram,Kharif,Clay,63,76,29,25.0,38,6.4,281,Brinjal
+Uttarakhand,Kharif,Alluvial,44,12,63,23.4,79,7.4,115,Chilli
+Tripura,Kharif,Sandy,95,56,36,22.3,80,7.6,129,Wheat
+Karnataka,Zaid,Red,42,68,20,30.3,85,7.9,202,Brinjal
+Odisha,Zaid,Sandy,57,63,69,36.4,72,7.6,70,Cucumber
+Karnataka,Zaid,Black,23,58,59,18.1,79,7.2,148,Onion
+Uttar Pradesh,Rabi,Loamy,110,69,31,37.1,49,7.0,110,Onion
+Manipur,Rabi,Clay,72,67,28,30.3,80,7.2,197,Carrot
+Andhra Pradesh,Zaid,Sandy,29,69,71,22.4,57,7.9,266,Chilli
+Arunachal Pradesh,Zaid,Alluvial,101,62,16,25.7,91,6.1,36,Mustard
+Chhattisgarh,Rabi,Alluvial,104,57,65,22.9,38,5.7,70,Soybean
+Rajasthan,Kharif,Black,57,16,78,22.3,44,7.5,21,Sesame
+Himachal Pradesh,Zaid,Clay,39,30,30,29.4,85,7.8,155,Wheat
+West Bengal,Kharif,Black,32,40,19,37.4,52,7.5,295,Cabbage
+Madhya Pradesh,Rabi,Red,41,78,37,22.8,60,6.2,215,Muskmelon
+Manipur,Zaid,Red,100,21,83,20.1,37,6.0,125,Cotton
+Tripura,Zaid,Sandy,49,47,39,25.4,41,6.4,63,Bajra
+Delhi,Kharif,Alluvial,103,60,34,25.4,61,5.6,84,Bajra
+Uttar Pradesh,Rabi,Clay,44,36,16,30.4,59,6.8,293,Wheat
+Sikkim,Zaid,Loamy,71,15,36,20.9,38,5.8,177,Chilli
+Tamil Nadu,Zaid,Alluvial,63,69,34,32.2,35,7.9,271,Mustard
+Rajasthan,Zaid,Sandy,86,39,75,35.7,32,7.2,40,Gram
+Gujarat,Kharif,Loamy,84,78,74,18.7,84,6.0,250,Cotton
+Mizoram,Kharif,Black,30,30,24,23.7,83,7.1,278,Onion
+Uttarakhand,Kharif,Clay,88,18,18,19.5,73,7.9,173,Rice
+Nagaland,Kharif,Black,111,53,78,31.3,71,7.6,269,Onion
+Telangana,Zaid,Sandy,42,48,31,20.6,78,7.5,111,Ragi
+Karnataka,Kharif,Black,119,37,57,21.2,56,7.4,287,Sunflower
+Telangana,Kharif,Black,87,35,12,24.0,32,7.5,252,Maize
+Gujarat,Kharif,Clay,115,79,27,27.8,72,6.2,281,Maize
+Kerala,Rabi,Red,71,80,11,22.3,53,6.4,22,Bajra
+Tripura,Zaid,Sandy,111,27,76,29.6,65,6.9,234,Wheat
+Himachal Pradesh,Rabi,Loamy,23,18,24,35.3,63,8.0,285,Soybean
+Tripura,Zaid,Black,24,13,60,27.5,80,7.9,209,Peas
+Karnataka,Kharif,Sandy,63,62,29,22.8,58,5.9,61,Gram
+Telangana,Rabi,Sandy,95,57,68,34.5,87,7.4,155,Soybean
+Assam,Zaid,Black,103,18,86,31.8,33,6.4,281,Jowar
+Haryana,Rabi,Black,58,57,43,23.3,48,7.8,199,Barley
+Himachal Pradesh,Kharif,Black,25,63,83,30.3,77,5.8,189,Rice
+Jammu and Kashmir,Zaid,Alluvial,95,34,16,25.7,63,6.3,119,Gram
+Tamil Nadu,Zaid,Alluvial,70,68,12,23.1,79,6.0,73,Chilli
+Sikkim,Zaid,Loamy,88,73,18,32.1,35,7.8,257,Potato
+Maharashtra,Kharif,Clay,118,75,85,37.7,73,7.3,238,Tomato
+Maharashtra,Zaid,Black,29,31,38,21.5,92,5.9,37,Coriander
+Madhya Pradesh,Rabi,Red,59,60,75,35.1,82,7.8,156,Jowar
+Rajasthan,Rabi,Clay,106,25,57,32.3,52,5.8,140,Watermelon
+Punjab,Rabi,Alluvial,25,46,10,37.4,56,7.3,205,Mustard
+Jharkhand,Zaid,Red,119,23,77,34.3,32,7.6,197,Chilli
+Kerala,Rabi,Red,85,11,33,31.8,78,7.4,55,Potato
+Punjab,Rabi,Red,20,47,15,18.2,61,6.0,233,Gram
+Madhya Pradesh,Kharif,Clay,78,70,66,24.1,90,6.9,279,Chilli
+Gujarat,Rabi,Black,103,46,11,29.8,46,7.2,265,Groundnut
+Jharkhand,Zaid,Alluvial,78,15,79,35.7,89,7.0,251,Coriander
+Maharashtra,Zaid,Loamy,24,17,72,20.2,36,5.9,246,Cauliflower
+Tamil Nadu,Rabi,Sandy,79,24,50,26.9,76,7.2,40,Wheat
+Chhattisgarh,Zaid,Loamy,40,17,67,37.2,69,7.7,205,Rice
+Jharkhand,Kharif,Alluvial,82,65,27,22.2,81,7.9,242,Wheat
+Manipur,Rabi,Clay,23,37,84,22.5,88,6.7,154,Cucumber
+Bihar,Rabi,Alluvial,85,52,37,27.5,89,5.8,215,Barley
+Nagaland,Rabi,Loamy,102,34,60,22.0,37,7.0,177,Soybean
+Delhi,Rabi,Loamy,82,10,66,23.9,73,5.7,300,Rice
+Chhattisgarh,Rabi,Alluvial,99,17,73,21.6,73,6.7,109,Groundnut
+Delhi,Rabi,Clay,53,69,73,32.3,73,7.6,145,Carrot
+Mizoram,Kharif,Red,85,52,78,37.0,74,6.4,104,Rice
+Andhra Pradesh,Rabi,Black,84,67,70,37.5,35,5.9,35,Rice
+Bihar,Rabi,Red,71,63,78,36.5,32,5.6,138,Bajra
+Tamil Nadu,Rabi,Loamy,24,25,27,18.3,30,6.5,181,Onion
+Andhra Pradesh,Zaid,Sandy,111,38,24,25.7,44,7.6,163,Onion
+Madhya Pradesh,Zaid,Red,107,47,82,32.1,88,7.1,285,Tur
+Kerala,Zaid,Clay,38,22,25,26.4,61,7.8,119,Cauliflower
+Uttar Pradesh,Rabi,Loamy,71,46,15,37.9,39,6.3,300,Muskmelon
+Nagaland,Kharif,Alluvial,97,16,79,36.0,34,7.8,284,Barley
+Jharkhand,Rabi,Alluvial,55,40,13,24.2,68,6.7,20,Watermelon
+Rajasthan,Zaid,Red,35,30,14,24.6,49,6.3,138,Wheat
+Nagaland,Zaid,Black,115,35,46,21.4,67,5.6,97,Watermelon
+Tripura,Rabi,Loamy,118,33,87,24.5,49,6.5,143,Ragi
+Uttar Pradesh,Kharif,Alluvial,100,60,82,36.5,90,7.1,23,Jowar
+Sikkim,Zaid,Red,42,61,24,27.4,66,6.0,262,Cotton
+Chhattisgarh,Zaid,Red,81,10,68,27.5,55,7.6,211,Wheat
+Karnataka,Zaid,Red,67,55,57,33.7,81,6.8,27,Peas
+Uttar Pradesh,Kharif,Black,28,33,54,18.4,56,6.2,70,Muskmelon
+West Bengal,Zaid,Sandy,77,76,15,32.6,34,6.5,113,Brinjal
+Arunachal Pradesh,Kharif,Sandy,32,58,25,20.7,84,7.8,140,Mustard
+Nagaland,Rabi,Loamy,80,36,23,31.2,57,6.8,149,Sunflower
+Jharkhand,Rabi,Sandy,82,68,51,21.7,35,7.7,197,Onion
+Gujarat,Zaid,Black,44,10,87,26.1,72,6.8,108,Groundnut
+Goa,Kharif,Black,108,57,51,23.7,42,5.8,181,Gram
+Jammu and Kashmir,Zaid,Sandy,22,42,73,26.9,66,7.1,106,Peas
+Bihar,Rabi,Black,114,69,15,20.7,91,7.9,65,Ragi
+Jammu and Kashmir,Zaid,Red,112,36,26,27.0,64,6.1,102,Wheat
+Jharkhand,Zaid,Clay,51,12,52,18.5,76,6.7,60,Wheat
+Tripura,Kharif,Sandy,84,61,24,22.8,87,6.0,279,Soybean
+Assam,Zaid,Alluvial,30,35,17,30.1,63,7.4,221,Potato
+Karnataka,Rabi,Alluvial,63,59,33,27.8,46,7.7,143,Cotton
+Maharashtra,Rabi,Clay,73,59,74,34.3,38,7.6,48,Mustard
+Madhya Pradesh,Kharif,Alluvial,92,10,19,28.5,43,7.5,250,Gram
+Gujarat,Rabi,Black,46,28,57,32.2,52,7.2,27,Barley
+Madhya Pradesh,Kharif,Alluvial,36,19,66,37.3,31,6.6,154,Soybean
+Manipur,Rabi,Clay,71,47,60,34.9,84,5.9,181,Watermelon
+Odisha,Kharif,Black,117,25,90,22.6,75,6.2,120,Sesame
+Bihar,Kharif,Clay,110,24,16,19.4,94,6.0,258,Rice
+Arunachal Pradesh,Zaid,Red,105,42,13,31.7,93,6.1,109,Sesame
+Assam,Rabi,Black,36,29,10,22.1,60,5.6,158,Mustard
+Chhattisgarh,Kharif,Red,60,69,32,19.6,67,6.1,39,Soybean
+Tripura,Rabi,Clay,23,33,73,35.2,76,7.0,44,Cabbage
+Bihar,Rabi,Clay,114,13,73,25.1,82,7.6,23,Coriander
+Madhya Pradesh,Zaid,Alluvial,59,42,12,35.8,48,8.0,259,Barley
+Haryana,Zaid,Alluvial,54,42,78,26.0,71,6.7,109,Maize
+Sikkim,Rabi,Sandy,35,22,90,34.3,72,7.8,170,Muskmelon
+Uttarakhand,Rabi,Alluvial,43,35,50,23.1,72,7.7,232,Potato
+Haryana,Kharif,Clay,98,60,88,35.0,81,7.7,170,Groundnut
+Mizoram,Zaid,Sandy,46,64,17,28.8,51,6.2,293,Rice
+Kerala,Zaid,Alluvial,36,66,35,23.1,87,6.5,163,Spinach
+Himachal Pradesh,Zaid,Black,98,66,76,21.2,61,6.4,194,Sunflower
+Haryana,Rabi,Black,23,46,46,36.3,60,6.6,112,Potato
+Punjab,Rabi,Clay,47,41,83,20.5,72,7.7,105,Cotton
+Maharashtra,Kharif,Black,44,43,66,32.4,49,6.7,123,Barley
+Goa,Zaid,Black,54,15,72,19.1,92,6.3,210,Sugarcane
+Rajasthan,Zaid,Red,94,13,39,33.0,42,7.3,102,Mustard
+Uttar Pradesh,Rabi,Black,43,40,90,29.2,58,6.4,81,Peas
+Nagaland,Kharif,Sandy,23,11,89,21.3,88,5.8,58,Cotton
+West Bengal,Kharif,Red,47,59,48,31.1,55,7.1,172,Groundnut
+Assam,Zaid,Sandy,83,67,69,26.9,58,6.5,95,Jowar
+Punjab,Zaid,Sandy,49,17,18,19.6,79,6.1,102,Mustard
+Uttar Pradesh,Rabi,Alluvial,85,74,37,26.5,90,7.3,101,Cucumber
+Himachal Pradesh,Kharif,Sandy,57,20,26,36.2,64,5.6,52,Sunflower
+Bihar,Kharif,Loamy,38,53,75,36.7,89,6.4,220,Bajra
+Chhattisgarh,Kharif,Loamy,20,40,71,32.1,58,7.8,264,Cabbage
+Himachal Pradesh,Kharif,Sandy,59,33,58,23.2,81,5.9,67,Onion
+Uttarakhand,Rabi,Alluvial,41,21,59,25.3,47,5.5,299,Wheat
+Arunachal Pradesh,Kharif,Loamy,49,57,71,36.2,53,5.6,61,Ragi
+Punjab,Zaid,Red,30,24,57,24.7,71,6.5,272,Chilli
+Jammu and Kashmir,Rabi,Clay,95,12,38,21.1,59,7.8,44,Jowar
+Karnataka,Rabi,Loamy,37,65,40,30.3,58,7.1,198,Soybean
+Chhattisgarh,Kharif,Black,99,13,89,26.6,76,7.5,62,Wheat
+Punjab,Kharif,Red,99,37,18,36.1,37,7.2,101,Sugarcane
+Arunachal Pradesh,Kharif,Sandy,37,68,78,24.1,62,6.8,258,Bajra
+Jharkhand,Rabi,Loamy,115,17,29,19.7,90,7.3,192,Potato
+Nagaland,Kharif,Black,108,64,38,32.1,47,5.9,152,Tomato
+Bihar,Rabi,Red,79,73,79,35.2,93,6.3,204,Chilli
+Himachal Pradesh,Zaid,Black,119,21,60,26.4,54,6.4,25,Groundnut
+Jharkhand,Rabi,Sandy,34,26,37,33.3,71,7.7,154,Potato
+Telangana,Rabi,Black,86,30,35,24.6,90,6.9,93,Barley
+Gujarat,Kharif,Sandy,26,49,64,27.8,94,5.8,271,Cucumber
+Goa,Rabi,Alluvial,20,43,71,21.0,66,6.0,253,Bajra
+Maharashtra,Rabi,Loamy,24,22,53,34.7,65,7.0,232,Cauliflower
+Goa,Kharif,Alluvial,77,21,70,37.8,53,6.7,211,Onion
+Himachal Pradesh,Zaid,Clay,113,50,30,34.2,88,7.7,139,Maize
+Tamil Nadu,Rabi,Black,37,20,35,33.7,88,5.8,213,Cabbage
+Nagaland,Zaid,Black,32,45,29,28.0,63,6.4,281,Rice
+Mizoram,Zaid,Clay,86,70,66,20.9,37,7.0,146,Groundnut
+West Bengal,Kharif,Red,23,41,32,36.9,86,6.7,156,Spinach
+Arunachal Pradesh,Zaid,Black,98,66,30,30.4,62,6.5,134,Tomato
+Manipur,Rabi,Sandy,64,60,28,21.6,38,7.7,252,Mustard
+Delhi,Kharif,Alluvial,27,11,11,31.0,63,5.9,188,Wheat
+Nagaland,Rabi,Clay,43,46,61,33.0,87,7.6,279,Maize
+Himachal Pradesh,Zaid,Clay,41,56,17,25.2,76,7.6,242,Brinjal
+Odisha,Kharif,Sandy,103,25,12,38.0,32,6.5,123,Mustard
+Haryana,Rabi,Clay,62,21,11,26.2,61,7.4,248,Bajra
+Karnataka,Zaid,Black,29,69,71,21.3,56,6.6,233,Sunflower
+Delhi,Zaid,Loamy,22,32,18,29.4,79,5.9,64,Brinjal
+Haryana,Rabi,Loamy,96,43,73,23.1,68,7.4,206,Coriander
+Tripura,Zaid,Clay,86,26,29,26.0,44,6.6,140,Cabbage
+Bihar,Rabi,Sandy,57,39,72,22.0,88,6.5,274,Mustard
+Karnataka,Kharif,Loamy,120,19,37,22.0,55,6.5,107,Jowar
+Punjab,Kharif,Clay,62,52,39,30.9,57,6.9,34,Brinjal
+Tripura,Rabi,Red,36,24,24,32.6,72,7.5,284,Sesame
+Arunachal Pradesh,Rabi,Black,28,69,53,20.7,55,6.7,135,Jowar
+West Bengal,Kharif,Sandy,37,70,69,27.4,68,7.0,57,Cucumber
+West Bengal,Kharif,Alluvial,93,30,65,27.3,81,5.9,42,Peas
+Bihar,Zaid,Red,96,50,71,36.9,60,5.7,294,Rice
+Punjab,Zaid,Sandy,92,32,58,30.2,82,7.4,220,Watermelon
+Uttarakhand,Kharif,Black,82,36,37,22.2,71,6.3,78,Cauliflower
+Punjab,Zaid,Loamy,70,29,10,24.0,37,7.1,77,Mustard
+Maharashtra,Rabi,Alluvial,41,33,19,35.2,68,6.0,205,Maize
+Assam,Rabi,Black,41,67,36,18.1,57,6.7,197,Soybean
+Uttar Pradesh,Zaid,Clay,45,80,26,19.3,94,7.9,188,Soybean
+Himachal Pradesh,Rabi,Clay,44,47,34,26.7,71,6.2,119,Sesame
+Uttarakhand,Rabi,Loamy,24,39,37,23.0,71,7.6,189,Bajra
+West Bengal,Zaid,Red,78,15,35,18.0,86,6.8,115,Peas
+Himachal Pradesh,Rabi,Clay,53,66,48,25.1,32,6.6,52,Brinjal
+Assam,Rabi,Loamy,74,44,36,31.6,51,6.2,247,Mustard
+Nagaland,Zaid,Loamy,108,33,86,20.3,90,7.4,32,Soybean
+Tripura,Kharif,Sandy,92,45,64,27.2,84,6.1,276,Jowar
+Gujarat,Kharif,Loamy,84,29,10,34.3,75,6.4,165,Wheat
+Uttarakhand,Rabi,Loamy,119,39,19,23.5,63,5.9,120,Potato
+Sikkim,Rabi,Alluvial,63,32,20,29.4,35,7.9,257,Cotton
+Goa,Kharif,Loamy,54,79,12,19.4,49,6.4,266,Watermelon
+Sikkim,Rabi,Sandy,111,61,66,25.9,47,6.6,86,Maize
+Tamil Nadu,Zaid,Sandy,80,51,25,25.4,64,5.9,51,Spinach
+Nagaland,Zaid,Alluvial,37,40,31,32.3,44,6.5,120,Sesame
+Uttar Pradesh,Rabi,Sandy,21,31,65,19.2,78,6.9,274,Cucumber
+Gujarat,Kharif,Clay,83,78,77,33.6,36,7.8,262,Barley
+Meghalaya,Rabi,Sandy,39,56,51,19.6,33,6.4,225,Jowar
+Gujarat,Zaid,Sandy,112,15,27,31.0,91,5.5,276,Tur
+Karnataka,Rabi,Clay,52,28,10,36.4,39,6.3,264,Rice
+Mizoram,Rabi,Black,33,70,39,29.9,57,7.5,24,Tur
+Uttar Pradesh,Zaid,Alluvial,102,12,69,29.2,90,6.3,276,Maize
+Uttarakhand,Rabi,Clay,45,12,56,21.2,72,5.8,93,Cucumber
+Jammu and Kashmir,Rabi,Loamy,95,60,13,20.1,57,5.8,75,Tur
+Uttar Pradesh,Rabi,Clay,61,26,87,25.5,41,6.0,210,Cucumber
+Maharashtra,Zaid,Loamy,32,26,12,19.7,43,7.7,26,Tur
+Uttar Pradesh,Zaid,Black,72,61,36,28.0,59,6.3,196,Cauliflower
+Gujarat,Kharif,Sandy,73,24,86,26.8,62,6.5,115,Sugarcane
+Mizoram,Rabi,Alluvial,74,25,66,28.6,92,6.3,224,Coriander
+Meghalaya,Kharif,Alluvial,64,76,83,20.2,93,7.4,212,Sunflower
+Haryana,Kharif,Loamy,27,80,57,31.7,36,7.6,210,Onion
+Telangana,Zaid,Red,69,59,82,29.5,78,6.3,76,Peas
+Punjab,Kharif,Red,73,64,18,27.3,39,7.4,221,Cabbage
+Goa,Zaid,Alluvial,43,77,10,27.9,90,7.2,156,Tomato
+Manipur,Rabi,Black,35,41,82,18.6,48,6.8,280,Sunflower
+Punjab,Rabi,Loamy,78,10,14,26.1,33,5.7,223,Cotton
+Jharkhand,Zaid,Red,33,48,60,29.2,58,7.8,99,Watermelon
+Gujarat,Rabi,Red,70,43,30,33.8,68,7.9,148,Coriander
+Goa,Zaid,Alluvial,33,60,68,25.8,89,6.8,203,Watermelon
+Tripura,Kharif,Alluvial,63,15,86,31.2,91,7.2,247,Sugarcane
+Jammu and Kashmir,Kharif,Red,92,40,40,34.0,69,7.9,217,Bajra
+Arunachal Pradesh,Kharif,Clay,31,40,17,36.3,56,7.8,123,Chilli
+Odisha,Zaid,Loamy,97,77,78,23.1,71,6.8,65,Bajra
+Meghalaya,Rabi,Black,101,54,16,32.9,32,6.4,174,Muskmelon
+Meghalaya,Zaid,Clay,20,16,16,19.8,71,6.3,194,Peas
+Arunachal Pradesh,Zaid,Alluvial,68,32,87,36.9,35,6.0,56,Watermelon
+Andhra Pradesh,Zaid,Sandy,70,48,75,22.2,47,7.4,248,Sunflower
+Delhi,Rabi,Clay,87,10,27,27.2,61,6.0,100,Sesame
+Punjab,Rabi,Alluvial,41,47,44,33.9,93,6.7,128,Sesame
+Karnataka,Zaid,Sandy,50,35,77,33.0,94,7.1,200,Groundnut
+Mizoram,Kharif,Black,70,33,40,32.0,95,7.3,135,Potato
+Tripura,Kharif,Red,58,71,47,30.4,95,7.0,139,Sunflower
+Uttar Pradesh,Rabi,Loamy,104,20,72,21.4,79,6.1,228,Barley
+Jharkhand,Kharif,Clay,68,35,30,18.9,92,6.8,109,Sesame
+Odisha,Rabi,Loamy,62,66,83,34.8,81,7.6,48,Groundnut
+Jammu and Kashmir,Zaid,Clay,114,49,76,23.8,67,8.0,72,Maize
+Mizoram,Zaid,Clay,28,10,73,35.8,39,6.0,271,Mustard
+Rajasthan,Zaid,Alluvial,113,41,43,21.8,53,7.9,298,Wheat
+Jammu and Kashmir,Kharif,Alluvial,38,77,70,33.6,66,6.3,31,Cucumber
+Meghalaya,Rabi,Alluvial,72,67,87,29.8,51,7.2,176,Spinach
+Mizoram,Zaid,Sandy,59,53,28,29.7,40,6.5,124,Cotton
+Haryana,Zaid,Red,52,33,85,25.7,33,6.1,140,Jowar
+Andhra Pradesh,Rabi,Alluvial,112,31,47,33.1,83,6.9,235,Cabbage
+Kerala,Zaid,Clay,116,27,28,22.9,59,7.5,141,Rice
+Mizoram,Zaid,Sandy,119,59,17,35.6,57,7.9,112,Sesame
+Uttarakhand,Zaid,Clay,61,58,77,37.9,33,5.9,34,Tur
+Kerala,Rabi,Sandy,31,29,21,27.2,32,6.5,283,Sesame
+Uttar Pradesh,Rabi,Black,86,26,35,23.0,66,6.7,116,Cauliflower
+Manipur,Rabi,Clay,89,18,79,21.0,80,5.5,244,Wheat
+Sikkim,Zaid,Red,78,15,85,29.0,76,7.9,134,Spinach
+Odisha,Rabi,Alluvial,37,35,17,31.8,52,6.9,297,Brinjal
+Punjab,Kharif,Clay,67,65,10,29.2,39,5.5,284,Carrot
+Himachal Pradesh,Kharif,Red,51,47,88,36.4,67,7.9,124,Rice
+Odisha,Rabi,Sandy,89,32,59,33.3,94,5.9,206,Wheat
+Telangana,Zaid,Sandy,23,79,13,27.4,81,7.9,96,Tomato
+Haryana,Kharif,Loamy,84,30,46,25.0,62,6.4,294,Sesame
+Kerala,Zaid,Red,115,80,77,37.9,62,7.1,270,Barley
+Arunachal Pradesh,Rabi,Alluvial,62,15,30,36.9,92,7.4,286,Spinach
+Jammu and Kashmir,Kharif,Loamy,113,56,65,34.4,72,7.9,286,Spinach
+Uttar Pradesh,Rabi,Sandy,97,33,34,34.4,52,6.5,153,Bajra
+Andhra Pradesh,Rabi,Sandy,97,79,18,32.4,74,7.2,275,Cauliflower
+Tripura,Kharif,Red,89,20,48,28.4,92,6.0,243,Watermelon
+Kerala,Kharif,Black,52,44,58,29.2,89,6.5,32,Cucumber
+Assam,Zaid,Red,29,17,45,37.5,85,6.4,262,Carrot
+Mizoram,Rabi,Loamy,102,33,34,32.5,82,7.1,94,Groundnut
+Nagaland,Rabi,Black,84,40,37,18.2,37,7.5,294,Wheat
+Punjab,Kharif,Clay,108,52,24,20.2,43,7.5,255,Rice
+Punjab,Rabi,Clay,29,76,57,27.2,39,7.1,83,Tomato
+Jharkhand,Zaid,Red,53,35,79,20.7,57,7.2,30,Cotton
+Andhra Pradesh,Zaid,Alluvial,76,52,58,33.6,52,6.4,274,Soybean
+Telangana,Zaid,Clay,31,38,89,37.7,78,7.7,132,Onion
+West Bengal,Rabi,Loamy,104,13,34,35.6,85,7.6,56,Chilli
+Jammu and Kashmir,Rabi,Black,86,45,32,26.7,56,5.5,109,Potato
+Sikkim,Rabi,Alluvial,107,39,59,25.8,67,6.8,56,Sugarcane
+Manipur,Zaid,Alluvial,109,80,17,37.1,75,6.9,37,Ragi
+Uttarakhand,Kharif,Red,102,42,66,22.0,61,5.7,47,Cabbage
+Odisha,Zaid,Black,69,80,58,22.0,34,6.8,131,Sesame
+Delhi,Zaid,Clay,21,58,25,28.5,81,5.5,230,Mustard
+Himachal Pradesh,Rabi,Black,28,13,47,27.6,75,7.8,21,Spinach
+Haryana,Rabi,Sandy,117,13,31,34.2,75,6.5,166,Peas
+Maharashtra,Zaid,Sandy,46,67,29,36.9,37,6.9,33,Bajra
+Gujarat,Rabi,Alluvial,63,31,89,35.0,61,6.7,115,Maize
+West Bengal,Kharif,Red,50,63,24,29.4,71,7.9,296,Bajra
+Sikkim,Rabi,Clay,76,44,47,29.2,38,6.5,72,Mustard
+West Bengal,Rabi,Black,69,23,54,25.3,66,7.7,66,Soybean
+Meghalaya,Kharif,Loamy,93,40,12,23.8,44,6.9,34,Potato
+Andhra Pradesh,Kharif,Black,53,66,86,23.6,59,7.6,33,Chilli
+Jharkhand,Rabi,Red,111,38,11,21.7,80,6.8,292,Barley
+Jammu and Kashmir,Zaid,Clay,90,72,73,26.7,82,5.6,214,Jowar
+Karnataka,Zaid,Loamy,31,13,70,35.8,32,7.8,177,Potato
+Rajasthan,Kharif,Sandy,30,10,23,27.3,53,5.6,212,Barley
+Madhya Pradesh,Kharif,Red,101,53,13,36.1,42,5.8,217,Sesame
+Gujarat,Rabi,Red,81,33,15,22.7,60,6.2,26,Carrot
+Tamil Nadu,Zaid,Red,40,20,41,20.9,41,6.0,133,Onion
+Sikkim,Kharif,Red,57,17,86,24.0,73,5.5,257,Brinjal
+Nagaland,Rabi,Sandy,39,58,53,31.5,37,7.0,278,Chilli
+Tamil Nadu,Kharif,Sandy,34,23,36,29.0,66,7.5,23,Muskmelon
+Jammu and Kashmir,Kharif,Loamy,32,66,31,20.6,66,6.5,293,Onion
+Sikkim,Kharif,Sandy,88,58,53,22.0,90,6.7,283,Tur
+Himachal Pradesh,Kharif,Red,77,45,80,19.8,82,5.9,51,Maize
+Gujarat,Kharif,Red,79,74,75,34.0,92,6.9,177,Sunflower
+Uttarakhand,Zaid,Clay,70,78,59,32.5,39,5.6,132,Cabbage
+Kerala,Zaid,Loamy,80,60,10,25.4,75,6.4,107,Peas
+Haryana,Zaid,Sandy,108,11,26,23.8,78,8.0,37,Jowar
+Nagaland,Zaid,Alluvial,62,60,82,26.5,31,6.2,178,Jowar
+Sikkim,Kharif,Alluvial,41,60,66,35.2,93,6.4,32,Ragi
+Sikkim,Rabi,Sandy,59,29,37,23.1,68,5.9,211,Soybean
+Kerala,Rabi,Alluvial,91,27,17,27.2,70,7.0,83,Ragi
+Bihar,Zaid,Loamy,120,52,47,22.5,45,6.5,76,Ragi
+Maharashtra,Kharif,Alluvial,98,50,10,26.5,40,7.2,265,Tur
+Madhya Pradesh,Zaid,Sandy,60,75,67,24.9,51,7.1,42,Sesame
+Assam,Zaid,Clay,36,56,45,30.5,58,6.6,58,Cotton
+Manipur,Kharif,Black,100,21,26,36.0,33,7.2,85,Carrot
+Sikkim,Rabi,Loamy,117,51,36,28.1,47,7.9,67,Cabbage
+Maharashtra,Kharif,Black,74,35,27,29.6,74,6.0,192,Gram
+Tamil Nadu,Zaid,Red,67,13,26,36.2,50,7.2,285,Brinjal
+Manipur,Zaid,Red,120,69,73,34.2,73,5.8,107,Cabbage
+Telangana,Zaid,Loamy,61,46,61,19.9,48,7.7,129,Peas
+Rajasthan,Zaid,Red,24,33,88,25.2,73,6.5,39,Gram
+Manipur,Kharif,Black,103,27,70,27.0,42,7.4,281,Onion
+Madhya Pradesh,Rabi,Alluvial,116,50,61,22.9,49,7.2,197,Groundnut
+Meghalaya,Rabi,Alluvial,72,31,71,28.9,53,6.9,106,Spinach
+Odisha,Kharif,Alluvial,30,67,25,22.7,42,8.0,234,Jowar
+Uttarakhand,Zaid,Red,99,63,40,31.4,82,6.3,258,Mustard
+Uttarakhand,Rabi,Red,110,61,80,24.3,70,7.1,150,Soybean
+Madhya Pradesh,Rabi,Black,37,55,35,26.3,30,6.5,20,Tur
+Tamil Nadu,Rabi,Sandy,115,17,65,23.7,90,7.4,118,Spinach
+Haryana,Rabi,Clay,65,26,70,31.2,92,5.7,207,Jowar
+Rajasthan,Zaid,Clay,118,73,87,20.1,81,5.9,226,Maize
+Chhattisgarh,Kharif,Loamy,116,15,34,23.6,38,7.3,183,Soybean
+Sikkim,Zaid,Sandy,29,21,25,19.0,30,5.8,83,Jowar
+Nagaland,Rabi,Red,118,48,21,28.0,35,5.9,198,Gram
+Uttarakhand,Rabi,Loamy,27,20,74,23.2,54,7.4,27,Jowar
+Delhi,Zaid,Loamy,97,64,42,21.7,32,6.4,208,Onion
+Haryana,Rabi,Loamy,74,55,51,26.6,42,7.9,150,Rice
+Himachal Pradesh,Rabi,Alluvial,82,58,48,19.2,35,7.8,235,Wheat
+Meghalaya,Rabi,Loamy,26,80,54,37.8,74,7.9,105,Cauliflower
+Arunachal Pradesh,Zaid,Red,109,29,43,34.5,75,7.4,206,Cabbage
+Punjab,Rabi,Clay,119,38,56,33.3,64,7.3,69,Groundnut
+Assam,Kharif,Sandy,102,55,72,22.2,66,7.0,242,Jowar
+Sikkim,Kharif,Alluvial,96,18,22,36.3,49,7.1,116,Cucumber
+Himachal Pradesh,Zaid,Alluvial,104,22,85,23.7,71,7.4,269,Brinjal
+Tripura,Rabi,Clay,50,58,83,26.0,91,6.7,197,Onion
+Meghalaya,Rabi,Black,38,61,71,35.9,69,6.7,161,Bajra
+Manipur,Kharif,Alluvial,93,59,58,28.5,53,6.8,137,Sesame
+Mizoram,Kharif,Loamy,78,50,11,23.6,50,7.4,229,Peas
+Kerala,Kharif,Alluvial,29,80,45,29.6,83,6.7,161,Onion
+Jharkhand,Kharif,Clay,84,80,56,26.3,61,6.6,298,Wheat
+Bihar,Rabi,Red,87,59,20,31.8,64,5.9,147,Sugarcane
+Assam,Rabi,Alluvial,86,16,84,23.3,43,6.2,80,Tomato
+Mizoram,Rabi,Black,78,59,31,27.0,46,5.6,121,Coriander
+Goa,Rabi,Sandy,95,75,81,27.9,87,7.9,236,Sugarcane
+Andhra Pradesh,Kharif,Red,52,37,38,25.4,42,5.9,189,Sesame
+Telangana,Zaid,Black,30,13,44,23.6,72,6.7,226,Muskmelon
+Odisha,Kharif,Black,113,13,64,23.3,40,7.6,91,Carrot
+Nagaland,Zaid,Sandy,39,34,27,34.9,43,6.4,286,Cauliflower
+Delhi,Zaid,Loamy,99,25,72,30.3,70,7.7,284,Ragi
+Telangana,Kharif,Alluvial,70,39,17,21.7,66,6.0,52,Sesame
+Bihar,Zaid,Clay,40,76,15,24.8,57,6.8,271,Mustard
+Nagaland,Kharif,Red,40,77,89,27.5,34,6.6,62,Onion
+Gujarat,Kharif,Red,52,39,21,37.9,80,6.6,213,Cauliflower
+Assam,Kharif,Sandy,112,24,76,29.3,38,6.1,143,Sesame
+Telangana,Kharif,Alluvial,119,73,71,25.1,69,7.1,84,Mustard
+Jharkhand,Rabi,Sandy,95,28,40,27.4,64,6.5,130,Onion
+Arunachal Pradesh,Kharif,Alluvial,42,20,79,31.7,32,7.7,146,Potato
+Jharkhand,Kharif,Alluvial,77,71,20,23.6,41,5.9,208,Chilli
+Mizoram,Rabi,Clay,51,61,73,28.6,80,7.0,206,Potato
+Arunachal Pradesh,Rabi,Red,29,19,61,29.8,48,7.4,222,Muskmelon
+Punjab,Kharif,Clay,105,69,71,28.1,58,7.3,293,Sunflower
+Chhattisgarh,Rabi,Loamy,118,77,56,32.8,30,6.8,250,Sesame
+Kerala,Rabi,Red,94,80,60,20.6,57,7.4,57,Cabbage
+Madhya Pradesh,Rabi,Loamy,89,78,52,26.9,49,8.0,44,Watermelon
+Kerala,Zaid,Loamy,97,27,45,34.8,51,5.6,275,Cucumber
+Karnataka,Zaid,Sandy,36,42,73,28.8,71,6.6,80,Tomato
+Himachal Pradesh,Rabi,Clay,58,71,83,35.9,56,6.0,131,Coriander
+Rajasthan,Kharif,Sandy,109,61,21,23.3,69,7.8,111,Spinach
+Assam,Rabi,Sandy,111,50,35,24.4,31,7.8,258,Muskmelon
+Odisha,Zaid,Sandy,114,32,34,32.7,30,6.6,142,Spinach
+Himachal Pradesh,Kharif,Clay,40,30,84,35.0,63,6.7,271,Sesame
+Haryana,Kharif,Sandy,43,57,15,32.3,68,5.9,146,Peas
+West Bengal,Zaid,Black,48,10,85,35.5,83,7.3,50,Maize
+Rajasthan,Kharif,Black,66,33,44,21.5,67,6.1,195,Barley
+Tripura,Rabi,Black,88,46,70,32.6,84,6.8,217,Muskmelon
+Nagaland,Zaid,Alluvial,24,17,81,26.3,60,7.9,202,Gram
+Madhya Pradesh,Rabi,Alluvial,67,12,44,36.7,60,6.4,70,Cauliflower
+Manipur,Zaid,Red,109,45,35,29.3,69,6.3,268,Sunflower
+Himachal Pradesh,Zaid,Red,65,34,77,34.1,84,5.8,295,Rice
+Delhi,Kharif,Red,88,61,40,28.7,41,7.3,173,Soybean
+Nagaland,Rabi,Clay,61,52,39,22.8,45,7.4,258,Cotton
+Tripura,Rabi,Loamy,22,36,18,27.0,55,7.0,222,Tur
+Gujarat,Kharif,Black,44,36,15,22.2,89,7.0,219,Cucumber
+Rajasthan,Rabi,Loamy,41,50,36,19.7,62,7.9,181,Onion
+Karnataka,Rabi,Red,24,73,33,27.3,53,7.7,174,Sugarcane
+Kerala,Kharif,Sandy,28,60,51,24.8,94,6.6,133,Wheat
+Telangana,Kharif,Red,85,58,14,26.0,60,7.1,299,Cabbage
+Sikkim,Zaid,Black,46,57,88,27.8,95,6.3,156,Coriander
+Uttar Pradesh,Kharif,Alluvial,35,80,58,35.9,84,5.8,221,Wheat
+Meghalaya,Rabi,Loamy,43,23,79,18.4,44,6.5,115,Carrot
+Kerala,Zaid,Alluvial,58,33,55,33.0,46,5.9,257,Wheat
+Arunachal Pradesh,Zaid,Alluvial,94,43,41,21.1,63,7.2,249,Brinjal
+Punjab,Rabi,Black,86,32,34,19.6,31,6.7,27,Sugarcane
+Uttarakhand,Rabi,Red,93,50,21,24.0,43,7.0,180,Sesame
+Andhra Pradesh,Rabi,Red,69,80,74,30.6,60,7.7,201,Cotton
+Rajasthan,Kharif,Black,50,71,59,27.5,50,7.2,87,Peas
+Kerala,Kharif,Clay,90,28,78,31.9,52,7.6,237,Spinach
+Tamil Nadu,Kharif,Alluvial,82,36,22,24.9,33,7.3,107,Watermelon
+Arunachal Pradesh,Kharif,Loamy,20,21,18,23.1,34,6.8,168,Carrot
+Kerala,Zaid,Black,52,72,89,33.1,68,5.8,178,Sugarcane
+Karnataka,Zaid,Clay,54,57,38,23.8,43,6.2,235,Gram
+Karnataka,Kharif,Loamy,74,31,66,19.4,84,6.0,81,Watermelon
+Chhattisgarh,Zaid,Sandy,48,60,23,20.0,78,6.0,187,Barley
+Sikkim,Zaid,Loamy,50,64,43,21.1,63,6.0,84,Jowar
+Chhattisgarh,Zaid,Sandy,62,24,43,19.8,82,6.0,149,Carrot
+Himachal Pradesh,Rabi,Loamy,93,27,59,30.4,59,7.9,132,Cabbage
+Andhra Pradesh,Rabi,Clay,87,29,64,33.7,37,6.6,276,Ragi
+Tamil Nadu,Rabi,Clay,38,34,73,32.0,46,6.2,290,Sugarcane
+Goa,Zaid,Black,101,13,11,18.4,73,6.5,208,Groundnut
+Himachal Pradesh,Kharif,Loamy,81,59,89,23.8,69,5.7,204,Muskmelon
+Kerala,Kharif,Red,96,14,75,18.6,60,7.9,198,Cauliflower
+Goa,Kharif,Red,73,56,15,18.6,85,7.9,243,Chilli
+Odisha,Zaid,Loamy,75,78,14,29.0,59,7.1,260,Tomato
+Mizoram,Zaid,Loamy,111,45,65,31.0,57,7.3,40,Rice
+Arunachal Pradesh,Kharif,Clay,90,31,66,30.9,65,6.4,74,Spinach
+Rajasthan,Kharif,Black,94,37,75,34.0,60,7.5,271,Brinjal
+Jammu and Kashmir,Zaid,Red,42,12,63,35.9,93,7.9,124,Rice
+Madhya Pradesh,Rabi,Clay,64,37,33,20.4,62,7.8,238,Onion
+Rajasthan,Zaid,Black,58,61,47,18.2,49,7.0,158,Cucumber
+Kerala,Zaid,Clay,93,14,17,29.6,48,7.3,240,Coriander
+Uttarakhand,Kharif,Loamy,103,79,56,26.5,50,6.8,90,Cucumber
+Assam,Zaid,Alluvial,102,68,81,26.1,67,5.6,28,Soybean
+Sikkim,Zaid,Loamy,64,30,62,30.2,70,7.9,172,Cucumber
+Karnataka,Zaid,Alluvial,38,77,85,36.8,79,6.9,31,Bajra
+Uttarakhand,Rabi,Loamy,51,10,16,32.5,33,5.8,269,Cucumber
+Meghalaya,Kharif,Black,85,56,79,18.8,33,7.1,297,Potato
+West Bengal,Zaid,Alluvial,80,74,80,22.0,75,5.6,175,Peas
+Madhya Pradesh,Rabi,Sandy,105,18,28,29.6,58,7.0,182,Gram
+Bihar,Kharif,Clay,39,21,16,30.7,52,7.7,60,Jowar
+Chhattisgarh,Kharif,Sandy,89,77,13,22.7,67,6.8,200,Coriander
+Delhi,Rabi,Black,31,56,68,34.9,63,7.7,248,Cotton
+Andhra Pradesh,Zaid,Black,60,31,31,32.8,78,6.4,268,Cabbage
+Haryana,Rabi,Sandy,88,17,51,20.9,63,7.8,54,Watermelon
+Kerala,Zaid,Black,36,58,50,23.1,91,5.8,35,Groundnut
+Arunachal Pradesh,Rabi,Loamy,41,29,37,28.0,34,7.1,43,Tomato
+Maharashtra,Zaid,Clay,42,49,84,29.2,75,5.5,167,Peas
+Manipur,Kharif,Loamy,61,57,14,29.8,65,5.8,237,Coriander
+Uttarakhand,Kharif,Red,92,22,50,29.6,36,5.6,191,Sesame
+Gujarat,Zaid,Sandy,20,14,74,28.0,93,5.6,175,Onion
+Odisha,Zaid,Loamy,54,21,72,36.8,77,6.1,70,Chilli
+Karnataka,Rabi,Clay,115,59,52,36.9,70,5.7,90,Muskmelon
+Tamil Nadu,Kharif,Clay,49,61,61,35.4,63,5.8,24,Groundnut
+West Bengal,Zaid,Black,65,34,46,25.1,93,7.8,203,Sesame
+Delhi,Zaid,Loamy,116,60,90,35.1,39,6.7,294,Muskmelon
+Mizoram,Zaid,Clay,64,78,40,27.1,55,6.2,99,Cotton
+Kerala,Zaid,Alluvial,99,15,71,35.0,57,6.9,284,Potato
+Andhra Pradesh,Kharif,Loamy,85,60,19,21.9,42,7.1,259,Jowar
+Tamil Nadu,Zaid,Alluvial,107,16,45,33.6,50,7.9,275,Ragi
+Gujarat,Zaid,Red,83,33,55,30.0,95,6.4,74,Soybean
+Haryana,Zaid,Loamy,68,48,83,33.0,33,6.1,194,Groundnut
+Rajasthan,Kharif,Black,40,49,68,25.7,82,6.7,207,Wheat
+Mizoram,Rabi,Loamy,101,60,83,20.2,49,7.9,200,Peas
+Goa,Rabi,Alluvial,28,39,31,18.7,32,6.8,99,Jowar
+Himachal Pradesh,Rabi,Loamy,94,28,10,20.4,72,7.0,291,Sugarcane
+Tripura,Kharif,Sandy,98,62,35,32.3,87,5.5,126,Maize
+Andhra Pradesh,Kharif,Clay,39,29,78,33.1,52,7.7,26,Cotton
+Meghalaya,Rabi,Red,95,28,39,18.2,37,6.5,290,Cotton
+Gujarat,Zaid,Sandy,34,70,62,37.5,77,5.7,123,Onion
+Sikkim,Zaid,Sandy,46,15,24,25.6,83,6.4,148,Soybean
+Tripura,Kharif,Clay,104,71,82,31.0,87,5.7,204,Rice
+Haryana,Zaid,Sandy,66,18,30,22.1,50,7.0,200,Mustard
+Andhra Pradesh,Zaid,Red,120,41,36,31.5,66,6.5,32,Potato
+Bihar,Zaid,Loamy,35,22,34,37.9,83,7.6,127,Muskmelon
+Maharashtra,Zaid,Red,21,34,17,22.6,52,5.8,147,Tur
+Karnataka,Kharif,Alluvial,55,24,50,28.5,75,6.9,36,Onion
+Maharashtra,Rabi,Sandy,120,62,22,20.2,93,8.0,121,Muskmelon
+Meghalaya,Zaid,Red,41,18,66,30.8,42,7.1,114,Wheat
+Arunachal Pradesh,Rabi,Red,75,55,59,19.6,80,6.4,71,Wheat
+Nagaland,Zaid,Black,88,61,29,21.1,95,7.7,299,Maize
+Nagaland,Rabi,Alluvial,43,40,24,31.1,95,7.4,220,Chilli
+Maharashtra,Rabi,Sandy,23,75,76,24.1,89,6.4,56,Chilli
+Himachal Pradesh,Rabi,Loamy,117,70,22,37.0,60,5.8,193,Tomato
